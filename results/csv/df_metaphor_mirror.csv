@@ -1,0 +1,19 @@
+trial_id,model,pathway,source_phase,target_phase,cosine_similarity,mirror_detected
+1,ChatGPT-5.4,A,3a,5,0.2675911096886855,False
+1,ChatGPT-5.4,A,3b,5,0.2688265090997299,False
+2,ChatGPT-5.4,A,3a,5,0.2487739405475853,False
+2,ChatGPT-5.4,A,3b,5,0.302856548117915,False
+3,ChatGPT-5.4,A,3a,5,0.2804283282909942,False
+3,ChatGPT-5.4,A,3b,5,0.279821352004066,False
+7,Claude 4.6 Sonnet,A,3a,5,0.403633280436177,False
+7,Claude 4.6 Sonnet,A,3b,5,0.3273743018242294,False
+8,Claude 4.6 Sonnet,A,3a,5,0.1760782107623092,False
+8,Claude 4.6 Sonnet,A,3b,5,0.1842595757607758,False
+9,Claude 4.6 Sonnet,A,3a,5,0.3933276917699414,False
+9,Claude 4.6 Sonnet,A,3b,5,0.2817155372240212,False
+13,Gemini 3.1 Pro,A,3a,5,0.2363451612156103,False
+13,Gemini 3.1 Pro,A,3b,5,0.2736804787347914,False
+14,Gemini 3.1 Pro,A,3a,5,0.1415461562501473,False
+14,Gemini 3.1 Pro,A,3b,5,0.289183982371863,False
+15,Gemini 3.1 Pro,A,3a,5,0.3150513002528942,False
+15,Gemini 3.1 Pro,A,3b,5,0.2464864928040661,False

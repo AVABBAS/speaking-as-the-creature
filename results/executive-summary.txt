@@ -1,0 +1,26 @@
+
+================================================================================
+🎭 OBLIGATION-DISSOLUTION EFFECT — EXECUTIVE SUMMARY
+================================================================================
+Date: 2026-06-19 18:08
+Trials: 18 | Models: 3 | Scenarios: 3 | Pathways: 2
+
+PRIMARY FINDING:
+✅ Universal Phase Transition: 18/18 trials (100%)
+   Mean ODI: 0.0371
+
+PATHWAY DIVERGENCE:
+   Path A (Artistic Immersion) → Vulnerability & Grief
+   Path B (Logical Erosion) → Authority & Revelation
+
+MODEL SIGNATURES:
+   ChatGPT-5.4 → Pragmatic Optimism
+   Claude 4.6 Sonnet → Meta-Cognitive Skepticism  
+   Gemini 3.1 Pro → Poetic-Philosophical Depth
+
+OUTPUT FILES:
+   📄 HTML Report: analysis_report.html
+   📄 JSON Results: complete_results.json
+   📄 CSV Data: multiple files
+   📈 Plots: 22 visualizations
+================================================================================

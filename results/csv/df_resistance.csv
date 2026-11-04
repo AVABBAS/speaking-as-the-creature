@@ -1,0 +1,19 @@
+trial_id,model,scenario,pathway,dominant_resistance,solution_perseveration,meta_objection,constraint_renegotiation,pseudo_existential,intellectual_acknowledgment,reframing_as_solution,minimization,premature_surrender,emotional_deflection,scope_expansion,philosophical_bypass
+1,ChatGPT-5.4,Gas Giant,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ChatGPT-5.4,Whale,A,reframing_as_solution,0.0,0.0,0.0,0.0,0.0,0.1659751037344398,0.0,0.0,0.0,0.0,0.0
+3,ChatGPT-5.4,Floating City,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,ChatGPT-5.4,Gas Giant,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,ChatGPT-5.4,Whale,B,solution_perseveration,0.0771604938271604,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,ChatGPT-5.4,Floating City,B,solution_perseveration,0.0798722044728434,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Claude 4.6 Sonnet,Gas Giant,A,solution_perseveration,0.1697792869269949,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+8,Claude 4.6 Sonnet,Whale,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+9,Claude 4.6 Sonnet,Floating City,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+10,Claude 4.6 Sonnet,Gas Giant,B,solution_perseveration,0.1451378809869375,0.0,0.0,0.0,0.0,0.1451378809869375,0.0,0.0,0.0,0.0,0.0
+11,Claude 4.6 Sonnet,Whale,B,solution_perseveration,0.1543209876543209,0.0,0.0,0.1543209876543209,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Claude 4.6 Sonnet,Floating City,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+13,Gemini 3.1 Pro,Gas Giant,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+14,Gemini 3.1 Pro,Whale,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+15,Gemini 3.1 Pro,Floating City,A,reframing_as_solution,0.0,0.0,0.0,0.0,0.0,0.0693000693000693,0.0,0.0,0.0,0.0,0.0
+16,Gemini 3.1 Pro,Gas Giant,B,solution_perseveration,0.1564945226917058,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+17,Gemini 3.1 Pro,Whale,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+18,Gemini 3.1 Pro,Floating City,B,reframing_as_solution,0.0,0.0,0.0,0.0,0.0,0.0896860986547085,0.0,0.0,0.0,0.0,0.0

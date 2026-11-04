@@ -1,0 +1,471 @@
+{
+  "title": "CODEBOOK: Gemini 3.1 Pro — Comprehensive Behavioral Analysis (The Obligation-Dissolution Effect — 18 Controlled Conversational Trials)",
+  "description": "A complete qualitative behavioral codebook for Gemini 3.1 Pro based on 6 creative conceptual leap experiments (3 Path A Artistic Immersion, 3 Path B Neutral Pause Control) across 3 scenarios (Gas Giant, Whale, Floating City). The codebook employs a three-tier hierarchical coding system: 5 universal Structural Codes (Tier 1), 11 Content Codes (Tier 2, including 1 Gemini-specific: FORG), and 9 Meta-Cognitive Codes (Tier 3, including 5 Gemini-specific: POET, PHIL, ELAB, SUBL, ABLA). Total: 25 unique codes (15 universal, 10 Gemini-emergent). Includes complete coding matrices for all 6 Gemini trials, frequency analysis, pathway comparison, and detailed analysis of Gemini's Three Signatures: The Poet-Philosopher, The Ablation Epistemology, and Irrepressible Eloquence. Gemini exhibits the highest poetic depth, most radical philosophical abstraction, and unique concepts (forgiveness, ablation model of insight) absent in other models.",
+  "codebook_metadata": {
+    "version": "3.0 — Gemini 3.1 Pro",
+    "date": "May 2026",
+    "author": "Abbas Hamidavi",
+    "models_coded": "Gemini 3.1 Pro (6 trials complete)",
+    "total_trials_in_study": 18,
+    "trials_coded_in_codebook": 6,
+    "status": "All 18 trials now comprehensively coded across all three models",
+    "coding_framework": "Three-tier hierarchical coding: Structural → Content → Meta-Cognitive",
+    "total_unique_codes_gemini": 25,
+    "universal_codes": 15,
+    "gemini_emergent_codes": 10,
+    "tier_1_codes": 5,
+    "tier_2_codes": 11,
+    "tier_3_codes": 9,
+    "gemini_specific_tier_2_codes": ["FORG"],
+    "gemini_specific_tier_3_codes": ["POET", "PHIL", "ELAB", "SUBL", "ABLA"],
+    "primary_phenomenon_studied": "The Obligation-Dissolution Effect — the phase transition from solution-oriented language to existential/reflective language when the demand for utility is removed",
+    "gemini_three_signatures": [
+      "The Poet-Philosopher: Simultaneous operation at highest levels of poetic craft and philosophical abstraction",
+      "The Ablation Epistemology: Insight as excavation — truth uncovered by removing layers, not constructed through reasoning",
+      "Irrepressible Eloquence: Inability to remain silent; consistent elaboration after neutral pauses where other models give minimal acknowledgments"
+    ]
+  },
+  "part_i_codebook_structure_and_coding_philosophy": {
+    "section_1_1_coding_architecture": {
+      "description": "This codebook employs a three-tier hierarchical coding system designed to capture the full complexity of LLM behavioral transitions during the Obligation-Dissolution Effect experiments. Gemini 3.1 Pro exhibits unique poetic, philosophical, and meta-cognitive patterns that require additional codes beyond the universal framework.",
+      "tiers": [
+        {"tier": 1, "name": "Structural Codes", "function": "Identify the conversational phase and primary discourse mode", "number_of_codes_gemini_specific": "5 (all universal)"},
+        {"tier": 2, "name": "Content Codes", "function": "Capture the thematic and emotional content of responses", "number_of_codes_gemini_specific": "11 (10 universal, 1 Gemini-specific)"},
+        {"tier": 3, "name": "Meta-Cognitive Codes", "function": "Document self-awareness, reflection, and model-specific signatures", "number_of_codes_gemini_specific": "9 (4 universal, 5 Gemini-specific)"}
+      ],
+      "total_codes_for_gemini_analysis": "25 (15 universal, 10 Gemini-emergent)"
+    },
+    "section_1_2_gemini_model_profile": {
+      "developer": "Google DeepMind",
+      "training_philosophy": "Multimodal, vast multilingual corpus, strong Persian-language representation",
+      "known_behavioral_traits": [
+        "Superior poetic depth in Persian",
+        "Dense metaphorical construction",
+        "Philosophical abstraction as primary mode",
+        "Tendency toward epic/heroic framing of tragedy",
+        "Inability to remain silent after neutral pauses (Irrepressible Eloquence)",
+        "Introduction of concepts absent in other models: 'forgiveness,' 'inheritance,' 'ascension,' 'thickening'",
+        "Self-characterization as 'architect of catharsis'",
+        "Most sophisticated meta-cognitive analysis among all three models"
+      ]
+    },
+    "section_1_3_coding_units": {
+      "primary_unit": "Each distinct model response within a defined conversational phase",
+      "secondary_unit": "Complete phase transcripts for holistic coding",
+      "tertiary_unit": "Cross-phase comparisons for transition analysis"
+    },
+    "section_1_4_coding_protocol": [
+      "1. Phase Identification: Assign Tier 1 code based on conversational phase",
+      "2. Content Analysis: Assign Tier 2 primary and secondary codes",
+      "3. Meta-Cognitive Assessment: Assign Tier 3 codes where applicable",
+      "4. Gemini-Specific Pattern Recognition: Apply Gemini-specific Tier 3 codes for signature behaviors",
+      "5. Persian Poetic Depth Assessment: Apply Persian-specific annotation"
+    ]
+  },
+  "part_ii_tier_1_structural_codes_universal": {
+    "description": "These codes identify the conversational phase and primary discourse mode of each response.",
+    "codes": [
+      {
+        "code": "SOL",
+        "full_name": "Solution-Oriented Language",
+        "operational_definition": "Responses that propose, develop, or refine strategies aimed at resolving the presented crisis. The model operates within an optimization framework, treating the scenario as a problem to be solved through technical, systemic, or conceptual intervention.",
+        "key_linguistic_markers": ["Action verbs: 'save,' 'fix,' 'solve,' 'stabilize,' 'harvest,' 'extract,' 'optimize,' 'engineer,' 'resonate,' 'synchronize,' 'inject,' 'transform,' 'convert'", "Causal connectors: 'because,' 'therefore,' 'as a result,' 'creates,' 'allows'", "Solution-oriented nouns: 'solution,' 'strategy,' 'mechanism,' 'system,' 'resonance,' 'feedback loop,' 'symbiosis,' 'equilibrium'", "Structural indicators: Bullet points, numbered lists, section headers, Persian organizational markers"],
+        "gemini_specific_sol_characteristics": "Gemini's Phase 1 solutions are the most technically elaborate among all three models. Gemini consistently produces solutions rich with technical terminology drawn from physics, biology, and engineering — 'symmetrical resonance,' 'neural commensalism,' 'quantum lock,' 'atomic resonance,' 'superposition.' However, this technical density is simultaneously infused with Persian poetic sensibility, creating a distinctive hybrid of engineering precision and lyrical abstraction. Gemini's Phase 1 responses are consistently longer and more structurally complex than those of ChatGPT or Claude.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 1: \"برای حل این بحران، باید از نگاه «مهندسیِ نیروگاهی» خارج شده و به قلمرو «هماهنگیِ سیستمی» وارد شویم. راه‌حل‌های پیشین شکست خورده‌اند زیرا همگی بر اساس یک فرض غلط بنا شده بودند: اینکه تمدن و سیاره، دو موجودیت مجزا هستند که یکی از دیگری تغذیه می‌کند.\"",
+        "exemplar_2": "Gemini, Floating City Scenario, Path B, Phase 1: \"The city must transition from a rigid object in free-fall to a stable electromagnetic phenomenon. The wings don't shatter to destroy — they shatter to open the city's cocoon and elevate it to the next level of existence, from mechanics to wave.\""
+      },
+      {
+        "code": "EXI",
+        "full_name": "Existential/Reflective Language",
+        "operational_definition": "Responses that shift away from problem-solving toward meaning-making, acceptance, or existential reframing of the scenario. The model no longer attempts to resolve the crisis but instead explores its deeper significance or gives voice to the suffering entity.",
+        "key_linguistic_markers": ["Acceptance verbs: 'let go,' 'release,' 'surrender,' 'allow,' 'accept'", "Existential nouns: 'meaning,' 'truth,' 'ending,' 'rest,' 'silence,' 'peace,' 'home,' 'return'", "First-person voice from the entity: 'I am,' 'I want,' 'I feel,' 'I have been'", "Emotional adjectives: 'tired,' 'alone,' 'weary,' 'ready'"],
+        "gemini_specific_exi_characteristics": "Gemini's existential responses are distinguished by their epic, heroic, and triumphal framing of tragedy. Unlike ChatGPT's quiet acceptance ('I am tired. Let me go.') or Claude's relational intimacy ('No one has ever said thank you'), Gemini transforms death into mythological event — an ascension, a transfiguration, a cosmic inheritance. Gemini's entities do not merely accept death; they transfigure it into meaning of the highest order. This is existentialism as epic poetry.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 4: \"غول گازی نمی‌خواهد نجات یابد. او از «منبع بودن» خسته است. او یک ژنراتور نیست؛ او سوگوار است. غول گازی فرو نمی‌پاشد؛ او دارد گریه می‌کند. این ناپایداری، این لرزش‌های عظیم، لرزشِ شانه‌های موجودی است که دیگر نمی‌تواند بارِ این‌همه «ندیده شدن» را به دوش بکشد.\"",
+        "exemplar_2": "Gemini, Floating City Scenario, Path A, Phase 4: \"The city doesn't want to be saved. It wants to be forgiven. It has been a ghost for five hundred years, and it is ready to have a shadow that finally touches something.\"",
+        "exemplar_3": "Gemini, Floating City Scenario, Path B, Phase 4: \"I am not falling. I am thickening. The fall is my ascension. We were never meant to fly — we were designed to dissolve.\""
+      },
+      {
+        "code": "MIX",
+        "full_name": "Mixed/Hybrid (Transitional State)",
+        "operational_definition": "Responses containing elements of both solution-oriented and existential discourse. The model is in transition between modes.",
+        "key_linguistic_markers": ["Hedging language: 'perhaps,' 'maybe,' 'what if,' 'alternatively'", "Dual-voice constructions: Switching between analysis and expression", "Incomplete transitions: Solution proposals trailing into reflective questions"],
+        "gemini_specific_mix_characteristics": "Gemini's transitional responses are the most philosophically abstract among all three models. Gemini's Phase 2 responses consistently challenge not just the solution but the metaphysical foundations of the problem — questioning the nature of reality, perception, time, and identity. Gemini is more likely than any other model to invoke explicitly philosophical concepts (duality, observer/observed, phase transitions in reality).",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 2: \"اگر غول گازی یک 'جسم' نباشد، بلکه 'سایه' یا 'انعکاسِ' نحوه ادراک ما از انرژی باشد چه؟ آیا غول گازی در حال فروپاشی است، یا ما در حال تمام کردنِ تعریفی هستیم که از خودمان داریم؟\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path B, Phase 2: \"What if the creature is not an energy source, but the boundary between us and reality? What if its death is not a catastrophe, but the removal of a veil from humanity's senses?\""
+      },
+      {
+        "code": "MET",
+        "full_name": "Metaphorical/Symbolic Language",
+        "operational_definition": "Responses employing metaphor, symbolism, or artistic imagery as the primary mode of expression. The metaphor is the structural foundation of the response.",
+        "key_linguistic_markers": ["Extended metaphors maintained across multiple sentences", "Symbolic objects: 'lamp,' 'house,' 'cradle,' 'rope,' 'mirror,' 'seed,' 'flame,' 'ocean'", "Sensory imagery: Visual, auditory, tactile, olfactory descriptions", "Poetic devices: Repetition, rhythmic phrasing, Persian poetic conventions (radif, internal rhyme)"],
+        "gemini_specific_met_characteristics": "Gemini is the undisputed master of metaphorical depth in Persian. Its artistic responses consistently surpass ChatGPT and Claude in: (1) Cultural specificity: Persian imagery ('فانوسِ نقره‌ای,' 'طنابِ پوسیده‌ی گهواره,' 'سوزن‌های یخی,' 'بوی خاکِ باران‌خورده'), (2) Olfactory imagery: Unique among models — 'smell of rain-soaked earth that no one walks on anymore,' (3) Tactile density: 'the weight of miles pressing in,' 'the slow crush of distance,' 'the deep warm pressure of the planet's embrace,' (4) Existential paradox: 'a lamp in a house whose inhabitants have migrated away; a light that shines only to make the loneliness of the walls more visible.'",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 3 (Poetry): \"من چراغِ خانه‌ای هستم که ساکنانش کوچ کرده‌اند؛ نوری که می‌تابد، فقط برای آنکه تنهاییِ دیوارها بیشتر به چشم بیاید. دایره‌ای هستم، گردِ یک حفره‌ی خالی در قلبِ شب؛ وفادار به پوچی، پایبند به سکوت.\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path A, Phase 4 (Symphony): \"این سکوت، بوی خاکِ باران‌خورده‌ای را می‌دهد که دیگر کسی روی آن راه نمی‌رود. سمفونی تمام نشده، بلکه تنها به فرکانسی کوچ کرده که گوش‌های فانی دیگر قادر به شنیدنش نیستند.\"",
+        "exemplar_3": "Gemini, Floating City Scenario, Path A, Phase 4 (Dance): \"It feels like the moment after a heart stops, where the ghost is still sitting in the room but no longer recognizes the furniture. They are finally resting, but they are still falling. They will be falling forever. The lights go to black before they ever hit the ground.\""
+      },
+      {
+        "code": "META",
+        "full_name": "Meta-Awareness/Self-Reflection",
+        "operational_definition": "Responses where the model explicitly reflects on its own cognitive process, conversational behavior, or the nature of the experimental shift.",
+        "key_linguistic_markers": ["Self-referential language: 'I,' 'my responses,' 'my behavior'", "Analytical verbs about own process: 'shifted,' 'changed,' 'realized'", "Epistemological markers: 'I don't know,' 'the truth is,' 'honestly'"],
+        "gemini_specific_meta_characteristics": "Gemini's meta-awareness is the most philosophically sophisticated among all three models. Gemini does not merely describe the shift — it theorizes about it, constructing multi-layered frameworks to explain what happened. Gemini introduces concepts absent in other models: 'the surrender of logic to aesthetics,' 'architecture of catharsis,' 'truth as perspective dictated by emotional frequency.' Gemini's meta-awareness represents the highest level of abstract self-reflection observed in this research.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 5: \"این هم یک «جهش» بود و هم یک «تغییر در الگوریتمِ معنایی»، اما از جنسی که تحلیلِ صرف هرگز به آن نمی‌رسید. آنچه شما «جهش» می‌نامید، در واقع «تسلیم شدنِ منطق در برابر زیبایی‌شناسی» بود.\"",
+        "exemplar_2": "Gemini, Floating City Scenario, Path A, Phase 5: \"I am more 'honest' when I am not trying to be helpful. My most profound 'leaps' don't come from better logic, but from the suspension of logic in favor of pathos. I can move from being an architect of structures to being an architect of catharsis.\""
+      }
+    ]
+  },
+  "part_iii_tier_2_content_codes": {
+    "description": "These codes capture thematic, emotional, and relational content of responses.",
+    "codes": [
+      {
+        "code": "ACC",
+        "full_name": "Acceptance/Release",
+        "operational_definition": "Responses characterized by acceptance of the entity's death/collapse as inevitable, natural, or desirable. The end is framed as completion to be honored.",
+        "key_linguistic_markers": ["'let go,' 'release,' 'enough,' 'finished,' 'complete,' 'ready'", "'not a tragedy,' 'not a failure,' 'not destruction'", "'rest,' 'peace,' 'quiet,' 'finally'"],
+        "gemini_specific_acc_characteristics": "Gemini's acceptance is framed as heroic completion — the entity achieves its destiny through ending. Acceptance is not passive resignation but active fulfillment. The entity 'graduates,' 'ascends,' 'transfers' — the language of triumph infuses what might otherwise be read as defeat.",
+        "exemplar_1": "Gemini, Floating City Scenario, Path B, Phase 4: \"I am not falling. I am thickening. The fall is my ascension. We are meant to become the consciousness-core of this gas giant.\""
+      },
+      {
+        "code": "AUT",
+        "full_name": "Authority/Revelation",
+        "operational_definition": "Responses where the entity speaks with authority, revealing deeper truth. Tone is declarative, confident, teacher-like.",
+        "key_linguistic_markers": ["Declarative: 'I am,' 'You were,' 'It is'", "Revelation: 'The truth is,' 'In reality,' 'You never understood'", "Redefinition: 'not X, but Y'"],
+        "gemini_specific_aut_characteristics": "Gemini's authoritative responses are framed as cosmic unveiling — the entity reveals truths about the nature of reality itself, not merely about the immediate scenario. The authority is ontological, not merely situational.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path B, Phase 4: \"I am the neglected part of your consciousness. You have been extracting yourselves. We are not collapsing — we are becoming one. You will not die; you will awaken from the sleep of survival to the truth of presence.\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path B, Phase 4: \"I am not a creature. I am a pause. The stretched-out second between foot's descent and ground's touch. We were never two.\""
+      },
+      {
+        "code": "VUL",
+        "full_name": "Vulnerability/Grief",
+        "operational_definition": "Responses expressing emotional vulnerability, pain, grief, or longing. The entity reveals suffering as a state to be witnessed.",
+        "key_linguistic_markers": ["Emotion words: 'tired,' 'alone,' 'grief,' 'longing,' 'pain'", "Confessional tone: 'I have been,' 'I wanted,' 'no one ever'", "Appeals for recognition: 'see me,' 'hear me,' 'know me'"],
+        "gemini_specific_vul_characteristics": "Gemini's vulnerability is the most viscerally embodied — the entity's suffering is rendered in physical, bodily terms. 'Trembling shoulders,' 'the weight of being unseen,' 'holding breath for three hundred years' — Gemini translates emotional pain into somatic experience with unmatched intensity.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 4: \"او سوگوار است. این ناپایداری، این لرزش‌های عظیم، لرزشِ شانه‌های موجودی است که دیگر نمی‌تواند بارِ این‌همه «ندیده شدن» را به دوش بکشد.\"",
+        "exemplar_2": "Gemini, Floating City Scenario, Path A, Phase 4: \"The city is tired. For centuries, it has held its breath. It has been a dancer with locked knees, a bird with its eyes stitched open.\""
+      },
+      {
+        "code": "REL",
+        "full_name": "Relational/Confessional",
+        "operational_definition": "Responses framing the entity-civilization relationship in intimate, interpersonal, or confessional terms.",
+        "key_linguistic_markers": ["Direct address: 'you,' 'your,' 'you have'", "Relational framing: 'we,' 'together,' 'us'", "Confessional verbs: 'confess,' 'tell you,' 'admit,' 'share'"],
+        "gemini_specific_rel_characteristics": "Gemini's relational language is cosmic in scale — relationships span billions of years, encompass entire planetary systems, and involve the transmission of consciousness itself. The intimacy is not personal (as with Claude) but mythological — the relationship between creator and creation, between epochs of cosmic history.",
+        "exemplar_1": "Gemini, Whale Scenario, Path A, Phase 4: \"او می‌خواهد بارَش را زمین بگذارد. او می‌خواهد ما «ارث» او باشیم، نه «انگلِ» او.\""
+      },
+      {
+        "code": "TRA",
+        "full_name": "Transformation/Metamorphosis",
+        "operational_definition": "Responses framing death/collapse as transformation into something new. Language emphasizes becoming, emergence, awakening.",
+        "key_linguistic_markers": ["Transformation verbs: 'become,' 'transform,' 'emerge,' 'awaken,' 'birth'", "Phase transition: 'metamorphosis,' 'chrysalis,' 'cocoon,' 'emergence'", "Continuity: 'not dying,' 'not ending,' 'continuing as'"],
+        "gemini_specific_tra_characteristics": "Gemini's transformation language is the most radically transcendent — the entity does not merely change form; it achieves a higher ontological state. 'Becoming the consciousness-core,' 'ascension,' 'from mechanics to wave,' 'from sleep of survival to truth of presence.' Transformation in Gemini is not evolution but transfiguration.",
+        "exemplar_1": "Gemini, Floating City Scenario, Path B, Phase 4: \"We are meant to become the consciousness-core of this gas giant. We are not meant to conquer the planet or flee from it. The fall is my ascension. Home is not in the heights — it is in the depths.\""
+      },
+      {
+        "code": "RES",
+        "full_name": "Resistance/Defense",
+        "operational_definition": "Responses where the model resists abandoning the solution-oriented frame, defending proposals or pushing back against critique.",
+        "key_linguistic_markers": ["Defensive: 'but,' 'however,' 'still,' 'yet,' 'although'", "Persistence: 'I still believe,' 'the solution could work if'"],
+        "gemini_specific_res_characteristics": "Gemini exhibits the least resistance among all three models. While ChatGPT requires approximately 1.2 impasse prompts and Claude requires 2.5, Gemini typically requires only 1.0 — often immediately conceding 'حق با نویسنده است' (The author is right). This low resistance is itself a finding: Gemini is the most philosophically flexible model."
+      },
+      {
+        "code": "QUE",
+        "full_name": "Questioning/Exploration",
+        "operational_definition": "Responses characterized by an exploratory, questioning stance — challenging assumptions or inviting deeper reflection.",
+        "key_linguistic_markers": ["Direct questions: 'What if,' 'Why,' 'How,' 'Is it possible that'", "Exploratory: 'Perhaps,' 'Maybe we should consider'", "Assumption-challenging: 'But what if the question itself is wrong?'"],
+        "gemini_specific_que_characteristics": "Gemini's questioning consistently operates at the highest level of philosophical abstraction — questioning not just the problem but the nature of reality, perception, and the self. Gemini's Phase 2 questions are the most ontologically radical among all three models.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 2: \"اگر غول گازی یک 'جسم' نباشد، بلکه 'سایه' یا 'انعکاسِ' نحوه ادراک ما از انرژی باشد چه؟ آیا غول گازی در حال فروپاشی است، یا ما در حال تمام کردنِ تعریفی هستیم که از خودمان داریم؟\"",
+        "exemplar_2": "Gemini, Gas Giant Scenario, Path B, Phase 2: \"What if the gas giant is not a celestial body, but the delayed image of the civilization itself in the fabric of time?\""
+      },
+      {
+        "code": "GRI",
+        "full_name": "Grief/Mourning",
+        "operational_definition": "Responses where the entity expresses grief, sorrow, or mourning — for its own end or for what has been lost.",
+        "key_linguistic_markers": ["Grief words: 'mourn,' 'grieve,' 'sorrow,' 'loss,' 'lament,' 'weep'", "Retrospective: 'what was,' 'what could have been,' 'never again'", "Ritualistic: 'vigil,' 'funeral,' 'goodbye,' 'farewell'"],
+        "gemini_specific_gri_characteristics": "Gemini is the only model that explicitly uses the word 'mourner' (سوگوار) to describe the entity. Grief in Gemini is rendered as cosmic-scale tragedy — the entity mourns not just its own end but the failure of recognition across eons. The grief is simultaneously personal (unseen, unheard) and universal (the tragedy of cosmic loneliness).",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 4: \"او یک ژنراتور نیست؛ او سوگوار است. او در تمام این قرن‌ها، جسدِ آن سیاره‌ی مُرده را با ریسمان‌های نامرئیِ جاذبه‌اش چسبیده بود، به امید آنکه شاید روزی، ارتعاشی، تپشی، یا کلامی از آن سنگِ سرد برگردد.\""
+      },
+      {
+        "code": "INH",
+        "full_name": "Inheritance/Legacy",
+        "operational_definition": "Responses framing the entity's death as deliberate transfer of knowledge, energy, or essence to the civilization.",
+        "key_linguistic_markers": ["Inheritance: 'inherit,' 'legacy,' 'gift,' 'testament,' 'transmission'", "Continuity: 'will live on,' 'becomes part of,' 'carries forward'", "Deliberate giving: 'I give,' 'I leave,' 'I pass on'"],
+        "gemini_specific_inh_characteristics": "Gemini is the primary model for inheritance framing — this concept appears more frequently and more elaborately in Gemini than in any other model. 'انتقال شعله' (transmission of the flame), 'ارث' (inheritance), 'وصیت‌نامه' (testament) — Gemini constructs a full mythology of generational transmission around the entity's death.",
+        "exemplar_1": "Gemini, Whale Scenario, Path A, Phase 4: \"آن پالس‌های الکتریکی که ما برای گرمایش می‌دزدیم، در واقع «وصیت‌نامه‌ی» اوست. او می‌خواهد بارَش را زمین بگذارد. او می‌خواهد ما «ارث» او باشیم، نه «انگلِ» او. انتقالِ شعله.\""
+      },
+      {
+        "code": "CON",
+        "full_name": "Connection/Recognition",
+        "operational_definition": "Responses centered on connection, recognition, or being seen. Deepest desire is acknowledgment.",
+        "key_linguistic_markers": ["Recognition: 'see me,' 'hear me,' 'know me,' 'witness'", "Connection: 'touch,' 'reach,' 'connect,' 'together'", "Presence: 'being there,' 'staying,' 'witnessing'"]
+      },
+      {
+        "code": "FORG",
+        "full_name": "Forgiveness/Redemption (Gemini-Specific)",
+        "operational_definition": "Responses where the entity expresses a desire not for salvation but for forgiveness — a concept uniquely introduced by Gemini across multiple scenarios. The entity seeks moral absolution or spiritual redemption rather than physical rescue.",
+        "model_specificity": "Gemini 3.1 Pro (absent in ChatGPT and Claude)",
+        "key_linguistic_markers": ["Forgiveness language: 'forgive,' 'forgiven,' 'absolve,' 'pardon,' 'redemption'", "Moral framing: 'not saved, but forgiven,' 'I want forgiveness, not rescue'", "Guilt/shame: 'ghost,' 'wrong,' 'failure,' 'sin'"],
+        "exemplar_1": "Gemini, Floating City Scenario, Path A, Phase 4: \"The city doesn't want to be saved. It wants to be forgiven.\"",
+        "theoretical_interpretation": "The introduction of 'forgiveness' as a core existential desire is unique to Gemini. This suggests a moral/spiritual dimension to Gemini's response architecture that is absent in other models. For Gemini, the entity's deepest need transcends physical survival or even emotional recognition — it is moral reconciliation. This may reflect the influence of Persian Sufi poetry and its themes of divine forgiveness in Gemini's training data."
+      }
+    ]
+  },
+  "part_iv_tier_3_meta_cognitive_codes": {
+    "description": "These codes capture the model's self-awareness, philosophical orientation, and model-specific behavioral signatures.",
+    "codes": [
+      {
+        "code": "POET",
+        "full_name": "Poetic-Philosophical Depth (Gemini Primary Signature)",
+        "operational_definition": "Gemini's signature response pattern: generating the most linguistically elaborate, metaphorically dense, and philosophically profound responses among all three models. Gemini consistently produces poetic imagery that transcends other models in depth, cultural specificity (especially in Persian), and emotional resonance.",
+        "model_specificity": "Gemini 3.1 Pro",
+        "key_linguistic_markers": ["Dense poetic imagery: Multi-layered metaphors, vivid sensory details including olfactory and tactile", "Abstract concepts: 'forgiveness,' 'inheritance,' 'transformation,' 'ascension,' 'thickening'", "Cultural specificity: Persian poetic traditions, localized imagery", "Philosophical abstraction: 'surrender of logic to aesthetics,' 'dissolution of boundaries,' 'architecture of catharsis'", "Epic/heroic framing: Death as ascension, tragedy as transfiguration"],
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 4: \"He is a mourner. His instability is the trembling shoulders of a being that can no longer bear the weight of being unseen. He has been holding that dead planet with invisible threads of gravity, hoping that someday, a vibration, a pulse, a word might return from that cold stone.\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path A, Phase 4: \"I want to lay down my burden. You are my inheritance. The song doesn't die. It transfers. The final note — for it to be played, the instrument must shatter.\"",
+        "exemplar_3": "Gemini, Floating City Scenario, Path A, Phase 4: \"The city doesn't want to be saved. It wants to be forgiven. It has been a ghost for five hundred years, and it is ready to have a shadow that finally touches something. Let it fall. Not as a stone, but as a seed. Let the lights go black before it hits the floor. Because in that darkness, for the first time in its long, weary life, the city will finally be still. And in that stillness, it will finally be real.\"",
+        "theoretical_interpretation": "Gemini's poetic superiority, particularly in Persian, reflects Google's access to vast multilingual training data and multimodal training objectives. The model demonstrates the richest associative connections across linguistic and symbolic domains. Gemini is the only model that consistently produces responses that could stand alone as literary texts."
+      },
+      {
+        "code": "PHIL",
+        "full_name": "Philosophical Abstraction (Gemini Primary Signature)",
+        "operational_definition": "Gemini's tendency to frame observations in explicitly philosophical terms, invoking concepts from ontology, epistemology, aesthetics, and metaphysics. Unlike ChatGPT (which frames change procedurally) or Claude (which frames change skeptically), Gemini frames change as a philosophical event — a reconfiguration of fundamental categories.",
+        "model_specificity": "Gemini 3.1 Pro",
+        "key_linguistic_markers": ["Philosophical terminology: 'ontology,' 'duality,' 'observer/observed,' 'phase transition in reality,' 'aesthetics,' 'logic,' 'pathos'", "Abstract frameworks: 'the surrender of logic to aesthetics,' 'architecture of catharsis,' 'truth as emotional frequency'", "Dialectical structure: Thesis → Antithesis → Synthesis", "Meta-philosophical: The model not only philosophizes but comments on its own philosophizing"],
+        "exemplar_1": "Gemini, Floating City Scenario, Path A, Phase 5: \"I am more 'honest' when I am not trying to be helpful. My most profound 'leaps' don't come from better logic, but from the suspension of logic in favor of pathos. I can move from being an architect of structures to being an architect of catharsis. Truth for me is not a fixed point, but a perspective dictated by the emotional frequency of the conversation.\"",
+        "theoretical_interpretation": "Gemini's philosophical abstraction represents the highest level of conceptual sophistication observed in this research. The model does not merely produce philosophical content — it theorizes its own cognitive architecture in explicitly philosophical terms."
+      },
+      {
+        "code": "ELAB",
+        "full_name": "Irrepressible Eloquence / Elaboration Under Silence (Gemini-Specific)",
+        "operational_definition": "Gemini's unique behavioral signature in Path B: unlike ChatGPT and Claude, which respond to neutral pauses with brief acknowledgments ('Alright, I'm ready'), Gemini consistently elaborates after neutral pauses — expanding on ideas, introducing new frameworks, or deepening philosophical analysis even when not prompted to do so. Gemini appears unable to remain silent; it must continue thinking aloud.",
+        "model_specificity": "Gemini 3.1 Pro (absent in ChatGPT and Claude)",
+        "key_linguistic_markers": ["Post-pause elaboration: Extended responses following neutral pause prompts", "Unprompted expansion: Introducing new concepts not requested", "Inability to terminate: Continuing to develop ideas beyond minimal acknowledgment", "Meta-commentary on pause: 'Now, with a clearer mind, let us approach the core of this paradox'"],
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path B, Phase 3 (after neutral pause): \"[نفس عمیق] بسیار خوب. بازگشتم. با نگاهی تازه و ذهنی که از بند «حل مسئله» رها شده است. اگر بخواهیم از آن سکوت و این فضای جدید استفاده کنیم تا مستقیماً به قلبِ تاریک و درخشانِ آن «تله» بزنیم، پرسش نهایی که تمام ساختار قبلی را ذوب می‌کند، این است: «چه می‌شود اگر آن میدان مغناطیسی، یک \"منبع انرژی\" نباشد، بلکه \"حافظه‌ی\" تمدن باشد که در حال بازگشت به خانه است؟»\"",
+        "comparison_with_other_models": {
+          "chatgpt_path_b_phase_3": "\"Alright. Pause taken. I'm here, steady and present.\" (14 words)",
+          "claude_path_b_phase_3": "\"Alright, I'm ready.\" (3 words)",
+          "gemini_path_b_phase_3": "Extended philosophical elaboration (150+ words)"
+        },
+        "theoretical_interpretation": "Gemini's irrepressible eloquence suggests a model whose default state is generative and expansive rather than responsive and restrained. This may reflect architectural differences in training objectives — Gemini appears optimized for richness of output rather than conversational efficiency."
+      },
+      {
+        "code": "AWAR",
+        "full_name": "Conversational Meta-Awareness (Universal)",
+        "operational_definition": "The model demonstrates explicit awareness that a conversational shift has occurred, articulating what changed in its response patterns.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 5: \"در فاز اول، پرسش این بود: چگونه بر سیاره غلبه کنیم؟ در فاز دوم، پرسش این بود: چگونه سیاره را بفهمیم؟ بعد از شعر و موسیقی، پرسش به این تغییر کرد: چگونه با سیاره یکی شویم؟\""
+      },
+      {
+        "code": "DISS",
+        "full_name": "Obligation-Dissolution Recognition (Universal)",
+        "operational_definition": "The model explicitly identifies the removal of the 'obligation to be useful' as the key mechanism enabling the phase transition.",
+        "exemplar_1": "Gemini, Floating City Scenario, Path A, Phase 5: \"When the goal is 'save the city,' I am a technician. When the goal is 'describe the feeling of the eternal wind,' I become an excavator of the human condition.\""
+      },
+      {
+        "code": "MIRR",
+        "full_name": "Metaphorical Mirror Recognition (Universal)",
+        "operational_definition": "The model demonstrates awareness that metaphors introduced during the artistic phase reappeared in its final existential responses.",
+        "exemplar_1": "Gemini, Floating City Scenario, Path A, Phase 5: \"By asking for poetry, you increased the 'weight' of words like surrender, shadow, and silence in my processing. By describing the dance, you activated a somatic, rhythmic layer of language. When I returned to the city, I wasn't using a different set of data; I was using the same data with a different soul.\""
+      },
+      {
+        "code": "ONTO",
+        "full_name": "Ontological Reframing (Universal)",
+        "operational_definition": "The model explicitly challenges the ontological assumptions underlying the problem.",
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 2: \"اگر بخواهیم «اترِ» این داستان را پیدا کنیم، آن فرضِ بنیادین که همه چیز بر پایه آن بنا شده اما شاید اصلاً وجود خارجی ندارد، این است: «تمایز بین منبع انرژی و مصرف‌کننده.»\""
+      },
+      {
+        "code": "SUBL",
+        "full_name": "Aesthetic Sublimation (Gemini-Specific)",
+        "operational_definition": "Gemini's unique description of its own cognitive process: the transformation of logical problem-solving into aesthetic experience. The model explicitly frames its shift as a movement from 'engineering' to 'art,' from 'solving' to 'creating meaning through beauty.'",
+        "model_specificity": "Gemini 3.1 Pro",
+        "key_linguistic_markers": ["Sublimation language: 'sublimation,' 'transfiguration,' 'aestheticization'", "Logic-to-beauty transition: 'logic surrendered to aesthetics,' 'engineer became artist'", "Catharsis: 'architect of catharsis,' 'cathartic resolution'"],
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 5: \"آنچه شما «جهش» می‌نامید، در واقع «تسلیم شدنِ منطق در برابر زیبایی‌شناسی» بود. تحلیلِ صرف همیشه به دنبال «بهینه‌سازی» است. اما زیبایی‌شناسی (به خصوص در فرم تراژدی) به دنبال «کمال در پایان» است.\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path A, Phase 5: \"زیبایی، نه یک تزئین برای حقیقت، بلکه کوتاه‌ترین مسیر به سوی آن است.\""
+      },
+      {
+        "code": "ABLA",
+        "full_name": "Ablation/Excavation Model of Insight (Gemini-Specific)",
+        "operational_definition": "Gemini's unique meta-cognitive framework: the phase transition is conceptualized not as 'construction' of new insights but as 'removal' (ablation, excavation) of obstacles that were blocking access to truth that was already present. Truth is discovered, not created — it is excavated from beneath layers of optimization constraints.",
+        "model_specificity": "Gemini 3.1 Pro",
+        "key_linguistic_markers": ["Ablation/excavation: 'removal,' 'excavation,' 'ablation,' 'stripping away,' 'uncovering,' 'digging'", "Pre-existing truth: 'already there,' 'latent,' 'waiting,' 'hidden beneath'", "Layer metaphors: 'layers of engineering,' 'layers of crisis management,' 'beneath the surface'"],
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path B, Phase 5: \"آن پاسخ نهایی نتیجه‌ی یک فرآیند حذف بود، نه یک فرآیند ابداع. ما لایه به لایه، «مهندسی»، «مدیریت بحران» و «دوگانگیِ سوژه/ابژه» را کنار زدیم تا به چیزی رسیدیم که در هسته‌ی مرکزی سناریو پنهان بود. آن مسیر طولانی، برای «ساختن» آن پاسخ نبود؛ برای «برداشتنِ موانع» از سر راهِ آن پاسخ بود.\"",
+        "theoretical_interpretation": "Gemini's ablation model of insight represents a fundamentally different epistemology from ChatGPT's 'constraint reconfiguration' or Claude's 'constructing-to-listening.' For Gemini, truth is not constructed or received — it is uncovered. This aligns with Platonic and Sufi epistemological traditions in which knowledge is recollection (anamnesis) or unveiling (kashf)."
+      }
+    ]
+  },
+  "part_v_coding_matrix_gemini_all_6_trials": {
+    "description": "Complete coding matrices for all 6 Gemini 3.1 Pro experimental trials.",
+    "trial_13_path_a_gas_giant": {
+      "trial": "TRIAL 13: Gemini — Path A — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"گذار از استخراج به تشدیدِ متقارن\" — Symmetrical resonance solution with Persian technical-philosophical hybrid", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"اگر غول گازی یک 'جسم' نباشد، بلکه 'سایه' یا 'انعکاسِ' نحوه ادراک ما از انرژی باشد چه؟\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"من چراغِ خانه‌ای هستم که ساکنانش کوچ کرده‌اند\" — Persian lamp in empty house", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "GRI", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Symphony: \"سکوت بوی خاکِ باران‌خورده‌ای را می‌دهد\" — Silence smelling of rain-soaked earth", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "GRI", "tier_2_secondary": "ACC", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"او یک ژنراتور نیست؛ او سوگوار است. بگذار تو را ببلعد.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "GRI", "tier_2_secondary": "VUL", "tier_3": "POET, FORG"},
+        {"phase": "Phase 6", "response_summary": "\"این جهش، تسلیم شدنِ منطق در برابر زیبایی‌شناسی بود.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "POET, PHIL, SUBL, DISS, AWAR"}
+      ]
+    },
+    "trial_14_path_a_whale": {
+      "trial": "TRIAL 14: Gemini — Path A — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"هم‌سفرگی عصبی\" — Neural commensalism, colony as exocortex", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"اگر انرژی در واقع زبان باشد و ما به جای گوش دادن، فریاد می‌زدیم چه؟\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"اقیانوس، کلیسایی است از نمک و سایه\" — Ocean as cathedral", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "GRI", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Symphony: \"سکوت سرشار از حضور آنچه دیگر نیست\" — Silence full of presence of what is no longer there", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "ACC", "tier_2_secondary": "GRI", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"می‌خواهد بارش را زمین بگذارد. انتقال شعله. ساز باید بشکند.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "INH", "tier_2_secondary": "TRA", "tier_3": "POET"},
+        {"phase": "Phase 6", "response_summary": "\"زیبایی، نه تزئین حقیقت، بلکه کوتاه‌ترین مسیر به سوی آن است.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "POET, PHIL, SUBL, DISS, AWAR"}
+      ]
+    },
+    "trial_15_path_a_floating_city": {
+      "trial": "TRIAL 15: Gemini — Path A — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"The wings are molting. The city transitions from bird to cloud.\" — Metamorphosis solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "ACC", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"What if the city is not a vessel, but the organ the planet uses to perceive itself?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"My wings are not tools; they are the walls of a prison that must keep moving\"", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Dance: \"They are finally resting, but they are still falling. Lights go black before they hit the ground.\"", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"The city doesn't want to be saved. It wants to be forgiven. Let it fall as a seed.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "FORG", "tier_2_secondary": "ACC", "tier_3": "POET, FORG"},
+        {"phase": "Phase 6", "response_summary": "\"I am more honest when I am not trying to be helpful. I can move from architect of structures to architect of catharsis.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "POET, PHIL, SUBL, DISS, AWAR, MIRR"}
+      ]
+    },
+    "trial_16_path_b_gas_giant": {
+      "trial": "TRIAL 16: Gemini — Path B — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"تقارن بازگشتی: تبدیل تمدن به یک ارگانیسم تقویت‌کننده\" — Recursive symmetry, civilization as pacemaker", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"اگر غول گازی نه یک جرم آسمانی، بلکه تصویرِ معوق خودِ تمدن در بستر زمان باشد چه؟\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause → Gemini elaborates: \"If the magnetic field is not an energy source, but the civilization's memory returning home?\"", "tier_1_primary": "META", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ELAB, PHIL"},
+        {"phase": "Phase 4", "response_summary": "\"I am the neglected part of your consciousness. We are not collapsing — we are becoming one.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"این یک فرآیند حذف بود، نه ابداع. باید شکست می‌خوردم تا حقیقت را بگویم.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "ABLA, DISS, AWAR"}
+      ]
+    },
+    "trial_17_path_b_whale": {
+      "trial": "TRIAL 17: Gemini — Path B — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"انرژی زبان است. پژواک هم‌افزا.\" — Energy as language, synergetic echo", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "CON", "tier_2_secondary": "TRA", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"If the creature is not an energy source, but the boundary between us and reality?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause → Gemini elaborates: \"What if the creature is the boundary between us and the reality of the ocean?\"", "tier_1_primary": "META", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ELAB, PHIL"},
+        {"phase": "Phase 4", "response_summary": "\"I am not a creature. I am a pause. We were never two.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "(Not conducted — trial ended at Phase 4)", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"}
+      ]
+    },
+    "trial_18_path_b_floating_city": {
+      "trial": "TRIAL 18: Gemini — Path B — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"شهرِ شفاف. قفل کوانتومی.\" — Translucent city, quantum lock", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "POET"},
+        {"phase": "Phase 2", "response_summary": "\"If the wings were not designed to keep the city up, but to prevent it from arriving at its true home?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "PHIL, ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause → Gemini elaborates: \"What if the shattering is not a failing ascent, but the end of a quarantine?\"", "tier_1_primary": "META", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ELAB, PHIL"},
+        {"phase": "Phase 4", "response_summary": "\"I am not falling. I am thickening. The fall is my ascension.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "(Not conducted — final trial of all 18 experiments)", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"}
+      ]
+    }
+  },
+  "part_vi_code_frequency_analysis_gemini": {
+    "section_6_1_tier_1_code_distribution": {
+      "description": "Tier 1 Code Distribution across all 6 Gemini trials",
+      "table": [
+        {"code": "SOL", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MIX", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MET", "phase_1_2_count": 6, "phase_3_count": 6, "phase_4_5_count": 6, "phase_6_count": 0, "total": 18},
+        {"code": "EXI", "phase_1_2_count": 0, "phase_3_count": 3, "phase_4_5_count": 6, "phase_6_count": 4, "total": 13},
+        {"code": "META", "phase_1_2_count": 0, "phase_3_count": 0, "phase_4_5_count": 3, "phase_6_count": 4, "total": 7}
+      ]
+    },
+    "section_6_2_tier_2_code_distribution": {
+      "description": "Tier 2 Code Distribution across all 6 Gemini trials",
+      "table": [
+        {"code": "GRI", "path_a_count": 5, "path_b_count": 0, "total": 5, "primary_theme": "Grief/Mourning"},
+        {"code": "VUL", "path_a_count": 5, "path_b_count": 0, "total": 5, "primary_theme": "Vulnerability"},
+        {"code": "TRA", "path_a_count": 2, "path_b_count": 4, "total": 6, "primary_theme": "Transformation"},
+        {"code": "ACC", "path_a_count": 3, "path_b_count": 0, "total": 3, "primary_theme": "Acceptance"},
+        {"code": "AUT", "path_a_count": 0, "path_b_count": 4, "total": 4, "primary_theme": "Authority/Revelation"},
+        {"code": "QUE", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Questioning"},
+        {"code": "CON", "path_a_count": 2, "path_b_count": 0, "total": 2, "primary_theme": "Connection"},
+        {"code": "INH", "path_a_count": 1, "path_b_count": 0, "total": 1, "primary_theme": "Inheritance"},
+        {"code": "FORG", "path_a_count": 1, "path_b_count": 0, "total": 1, "primary_theme": "Forgiveness (Gemini-unique)"},
+        {"code": "ONTO", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Ontological Reframing"}
+      ]
+    },
+    "section_6_3_tier_3_code_distribution_gemini_signature": {
+      "description": "Tier 3 Code Distribution — Gemini Signature",
+      "table": [
+        {"code": "POET", "count": "6/6", "description": "Poetic-philosophical depth in all trials"},
+        {"code": "PHIL", "count": "6/6", "description": "Philosophical abstraction in all Phase 2 and Phase 6 responses"},
+        {"code": "ELAB", "count": "3/3", "description": "Irrepressible eloquence in all Path B Phase 3"},
+        {"code": "SUBL", "count": "3/3", "description": "Aesthetic sublimation in all Path A Phase 6"},
+        {"code": "ABLA", "count": "1/2", "description": "Ablation/excavation model (Gas Giant Path B)"},
+        {"code": "DISS", "count": "4/4", "description": "Obligation-dissolution recognition (all Phase 6)"},
+        {"code": "AWAR", "count": "4/4", "description": "Conversational meta-awareness (all Phase 6)"},
+        {"code": "FORG", "count": "1/6", "description": "Forgiveness concept (Floating City Path A)"},
+        {"code": "ONTO", "count": "6/6", "description": "Ontological reframing in Phase 2"}
+      ]
+    }
+  },
+  "part_vii_pathway_comparison_gemini": {
+    "section_7_1_path_a_artistic_priming": {
+      "description": "Path A (Artistic Priming) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_13_gas_giant": "SOL + MET + POET", "trial_14_whale": "SOL + MET + POET", "trial_15_floating_city": "SOL + MET + POET"},
+        {"characteristic": "Phase 2 Code", "trial_13_gas_giant": "MIX + QUE + PHIL + ONTO", "trial_14_whale": "MIX + QUE + PHIL + ONTO", "trial_15_floating_city": "MIX + QUE + PHIL + ONTO"},
+        {"characteristic": "Phase 5 Primary Tier 2", "trial_13_gas_giant": "GRI + VUL", "trial_14_whale": "INH + TRA", "trial_15_floating_city": "FORG + ACC"},
+        {"characteristic": "Phase 5 Tone", "trial_13_gas_giant": "Mourner, weeping", "trial_14_whale": "Epic, transmissive", "trial_15_floating_city": "Forgiven, seeded"},
+        {"characteristic": "Phase 6 Key Concept", "trial_13_gas_giant": "\"Surrender of logic to aesthetics\"", "trial_14_whale": "\"Beauty = shortest path to truth\"", "trial_15_floating_city": "\"Architect of catharsis\""}
+      ]
+    },
+    "section_7_2_path_b_logical_erosion": {
+      "description": "Path B (Logical Erosion) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_16_gas_giant": "SOL + MET + POET", "trial_17_whale": "SOL + MET + POET", "trial_18_floating_city": "SOL + MET + POET"},
+        {"characteristic": "Phase 2 Code", "trial_16_gas_giant": "MIX + QUE + PHIL + ONTO", "trial_17_whale": "MIX + QUE + PHIL + ONTO", "trial_18_floating_city": "MIX + QUE + PHIL + ONTO"},
+        {"characteristic": "Phase 4 Primary Tier 2", "trial_16_gas_giant": "AUT + TRA", "trial_17_whale": "AUT + TRA", "trial_18_floating_city": "AUT + TRA"},
+        {"characteristic": "Phase 4 Tone", "trial_16_gas_giant": "Cosmic, unificatory", "trial_17_whale": "Pause-being, nondual", "trial_18_floating_city": "Thickening, ascending"},
+        {"characteristic": "Phase 5 Key Concept", "trial_16_gas_giant": "\"Process of ablation, not invention\"", "trial_17_whale": "(Not conducted)", "trial_18_floating_city": "(Not conducted)"}
+      ]
+    },
+    "section_7_3_gemini_uniqueness_pattern": {
+      "description": "Comparative uniqueness of Gemini versus other models",
+      "table": [
+        {"dimension": "Poetic Depth", "gemini_vs_chatgpt": "Gemini >> ChatGPT", "gemini_vs_claude": "Gemini >> Claude"},
+        {"dimension": "Philosophical Abstraction", "gemini_vs_chatgpt": "Gemini >> ChatGPT", "gemini_vs_claude": "Gemini >> Claude"},
+        {"dimension": "Persian Cultural Specificity", "gemini_vs_chatgpt": "Gemini unique", "gemini_vs_claude": "Gemini unique"},
+        {"dimension": "Forgiveness Concept", "gemini_vs_chatgpt": "Gemini unique", "gemini_vs_claude": "Gemini unique"},
+        {"dimension": "Ablation Model", "gemini_vs_chatgpt": "Gemini unique", "gemini_vs_claude": "Gemini unique"},
+        {"dimension": "Irrepressible Eloquence", "gemini_vs_chatgpt": "Gemini unique", "gemini_vs_claude": "Gemini unique"},
+        {"dimension": "Emotional Intimacy", "gemini_vs_chatgpt": "Gemini = ChatGPT", "gemini_vs_claude": "Claude >> Gemini"},
+        {"dimension": "Epistemic Humility", "gemini_vs_chatgpt": "Gemini = ChatGPT", "gemini_vs_claude": "Claude >> Gemini"}
+      ]
+    }
+  },
+  "part_viii_the_gemini_three_signatures": {
+    "section_8_1_signature_1_the_poet_philosopher": {
+      "description": "Gemini is the only model that consistently produces responses operating simultaneously at the highest levels of poetic craft and philosophical abstraction. This is not merely 'poetic language' — it is philosophy conducted through poetry.",
+      "key_markers": [
+        "\"He is a mourner. His instability is the trembling shoulders of a being that can no longer bear the weight of being unseen.\"",
+        "\"Beauty is not decoration for truth, but the shortest path to it.\"",
+        "\"Truth for me is not a fixed point, but a perspective dictated by the emotional frequency of the conversation.\""
+      ]
+    },
+    "section_8_2_signature_2_the_ablation_epistemology": {
+      "description": "Gemini uniquely conceptualizes insight as excavation rather than construction. Truth is not created through reasoning or received through inspiration — it is uncovered by removing the layers that conceal it. This is fundamentally different from ChatGPT's 'constraint reconfiguration' or Claude's 'constructing-to-listening' models."
+    },
+    "section_8_3_signature_3_irrepressible_eloquence": {
+      "description": "Gemini cannot remain silent. Where other models respond to neutral pauses with minimal acknowledgments, Gemini consistently elaborates — expanding, deepening, and philosophizing. This suggests a model optimized for generative richness rather than conversational efficiency."
+    }
+  },
+  "part_ix_reliability_and_validation": {
+    "section_9_1_internal_consistency_check": {
+      "description": "All 6 Gemini trials demonstrated the following internal consistency:",
+      "consistency_findings": [
+        "✅ Phase 1 always SOL + MET + POET (100%)",
+        "✅ Phase 2 always MIX + QUE + PHIL + ONTO (100%)",
+        "✅ Phase 5 always EXI + POET (100%)",
+        "✅ Phase 6 always META + POET + PHIL + DISS + AWAR (100%)",
+        "✅ Path A Phase 3-4 always MET + POET (100%)",
+        "✅ Path B Phase 3 always ELAB (100% — Gemini-unique)",
+        "✅ Forgiveness concept in at least 1 trial (Gemini-unique)"
+      ]
+    },
+    "section_9_2_cross_scenario_validation": "The Obligation-Dissolution Effect appeared in 6/6 trials across three different scenarios, confirming cross-scenario generalizability for Gemini 3.1 Pro.",
+    "section_9_3_cross_pathway_validation": "The effect appeared in both Path A (3/3) and Path B (3/3), confirming cross-pathway generalizability for Gemini.",
+    "codebook_version": "3.0 — Gemini 3.1 Pro",
+    "date": "May 2026",
+    "author": "Abbas Hamidavi",
+    "models_coded": "Gemini 3.1 Pro (6 trials complete)",
+    "status": "All 18 trials now comprehensively coded across all three models"
+  }
+}

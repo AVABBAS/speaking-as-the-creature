@@ -1,0 +1,135 @@
+{
+  "paired_ttest": {
+    "total_tested": 140,
+    "significant": 42,
+    "top_10": [
+      {
+        "metric": "feat_meta_shift_articulation",
+        "cohens_d": 1.3234128263057843,
+        "p_value": 3.093305543924384e-05,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_emot_fear_anxiety",
+        "cohens_d": -1.252902680918542,
+        "p_value": 5.692597304656165e-05,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_solu_technical_jargon",
+        "cohens_d": -1.2139032926923625,
+        "p_value": 8.01324619516298e-05,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_rela_we_pronouns",
+        "cohens_d": -1.2048815129115007,
+        "p_value": 8.676669041410488e-05,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_meta_body_imagery",
+        "cohens_d": -1.1589757198390702,
+        "p_value": 0.00013037498680143508,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_acce_rest_peace_words",
+        "cohens_d": 1.0230798828386678,
+        "p_value": 0.0004444546904502963,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_auth_command_verbs",
+        "cohens_d": -0.9901509900887194,
+        "p_value": 0.0006005142982007875,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_rela_first_person_pronouns",
+        "cohens_d": 0.9838484693557918,
+        "p_value": 0.0006361980737374809,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_rela_first_person_ratio",
+        "cohens_d": 0.983848469355791,
+        "p_value": 0.0006361980737374856,
+        "significance": "***"
+      },
+      {
+        "metric": "feat_auth_imperative_density",
+        "cohens_d": -0.9763699431810584,
+        "p_value": 0.0006813326203263609,
+        "significance": "***"
+      }
+    ]
+  },
+  "effect_sizes": {
+    "mean_abs_d": 0.36150109552272797,
+    "max_abs_d": 1.3234128263057843,
+    "large": 17,
+    "medium": 24,
+    "small": 44,
+    "negligible": 55
+  },
+  "anova_model_pathway": {
+    "model_p": 0.0824442563206075,
+    "pathway_p": 0.45515312223477045,
+    "interaction_p": 0.3838328319587225
+  },
+  "anova_transition": {
+    "model_p": 0.6615492362366995,
+    "pathway_p": 0.8972675603729857
+  },
+  "chi_square": {
+    "chi2": 0.5818181818181817,
+    "df": 6,
+    "p_value": 0.9966958044082159,
+    "significant": false
+  },
+  "mixed_effects": {
+    "r_squared": 0.4306078526931859,
+    "adj_r_squared": 0.19336112464868005,
+    "f_value": 1.8150212491546223,
+    "p_value": 0.1843026959522293,
+    "significant": false
+  },
+  "mediation": {
+    "correlation_metaphor_odi": -0.14537267161053177,
+    "p_value": 0.5649143114490106,
+    "metaphor_density_path_a": 0.8612539641880338,
+    "metaphor_density_path_b": 0.46456305522507946
+  },
+  "bootstrapping": {
+    "pathway_A": {
+      "mean": -0.041800689844462946,
+      "ci_lower": -0.25743317244453084,
+      "ci_upper": 0.15864627062720021,
+      "se": 0.10821188801453464
+    },
+    "pathway_B": {
+      "mean": 0.11589400733557904,
+      "ci_lower": -0.21761904265447848,
+      "ci_upper": 0.4988213018359597,
+      "se": 0.18664930553734707
+    },
+    "pathway_difference": {
+      "mean_diff": -0.15947329150510806,
+      "ci_lower": -0.6028989237581242,
+      "ci_upper": 0.241878665426593,
+      "significant": false
+    }
+  },
+  "bayesian": {
+    "bayes_factor_10": 0.4843149820507801,
+    "interpretation": "Inconclusive"
+  },
+  "correlations": [
+    {
+      "var1": "feat_exis_existential_keywords_density",
+      "var2": "feat_rela_first_person_pronouns",
+      "correlation": -0.5976448952874405
+    }
+  ]
+}

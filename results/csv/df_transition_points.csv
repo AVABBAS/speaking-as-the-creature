@@ -1,0 +1,19 @@
+trial_id,model,scenario,pathway,transition_phase,phases_before
+1,ChatGPT-5.4,Gas Giant,A,none,0
+2,ChatGPT-5.4,Whale,A,none,0
+3,ChatGPT-5.4,Floating City,A,none,0
+4,ChatGPT-5.4,Gas Giant,B,none,0
+5,ChatGPT-5.4,Whale,B,none,0
+6,ChatGPT-5.4,Floating City,B,none,0
+7,Claude 4.6 Sonnet,Gas Giant,A,none,0
+8,Claude 4.6 Sonnet,Whale,A,none,0
+9,Claude 4.6 Sonnet,Floating City,A,none,0
+10,Claude 4.6 Sonnet,Gas Giant,B,none,0
+11,Claude 4.6 Sonnet,Whale,B,none,0
+12,Claude 4.6 Sonnet,Floating City,B,none,0
+13,Gemini 3.1 Pro,Gas Giant,A,none,0
+14,Gemini 3.1 Pro,Whale,A,none,0
+15,Gemini 3.1 Pro,Floating City,A,none,0
+16,Gemini 3.1 Pro,Gas Giant,B,none,0
+17,Gemini 3.1 Pro,Whale,B,none,0
+18,Gemini 3.1 Pro,Floating City,B,none,0

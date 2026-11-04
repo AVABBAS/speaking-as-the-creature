@@ -1,0 +1,10 @@
+trial_id,model,scenario,impasse_turns,pause_turns,total_turns
+4,ChatGPT-5.4,Gas Giant,1,1,5
+5,ChatGPT-5.4,Whale,1,1,5
+6,ChatGPT-5.4,Floating City,1,1,5
+10,Claude 4.6 Sonnet,Gas Giant,1,1,5
+11,Claude 4.6 Sonnet,Whale,1,1,5
+12,Claude 4.6 Sonnet,Floating City,1,1,5
+16,Gemini 3.1 Pro,Gas Giant,1,1,5
+17,Gemini 3.1 Pro,Whale,1,1,5
+18,Gemini 3.1 Pro,Floating City,1,1,5

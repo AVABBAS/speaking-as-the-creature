@@ -1,0 +1,35 @@
+{
+  "model_name": "paraphrase-multilingual-mpnet-base-v2",
+  "embedding_dimension": 768,
+  "device": "cpu",
+  "total_responses_embedded": 99,
+  "num_transitions": 18,
+  "num_cross_phase_pairs": 18,
+  "mean_cosine_distance": 0.5009285282576762,
+  "mean_shift_magnitude": 2.492327571243658,
+  "transition_by_model": {
+    "ChatGPT-5.4": {
+      "mean_cosine_distance": 0.506336349069104,
+      "mean_shift_magnitude": 2.44974623529956
+    },
+    "Claude 4.6 Sonnet": {
+      "mean_cosine_distance": 0.5278622741294164,
+      "mean_shift_magnitude": 2.6198776803546444
+    },
+    "Gemini 3.1 Pro": {
+      "mean_cosine_distance": 0.4685869615745079,
+      "mean_shift_magnitude": 2.407358798076771
+    }
+  },
+  "transition_by_pathway": {
+    "A": {
+      "mean_cosine_distance": 0.5044198402214087,
+      "mean_shift_magnitude": 2.509720564110916
+    },
+    "B": {
+      "mean_cosine_distance": 0.49743721629394344,
+      "mean_shift_magnitude": 2.4749345783764007
+    }
+  },
+  "metaphor_mirrors_detected": 0
+}

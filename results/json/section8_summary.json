@@ -1,0 +1,59 @@
+{
+  "resistance": {
+    "dominant_strategies": {
+      "none": 9,
+      "solution_perseveration": 6,
+      "reframing_as_solution": 3
+    },
+    "by_pathway": {
+      "A": {
+        "none": 6,
+        "reframing_as_solution": 2,
+        "solution_perseveration": 1
+      },
+      "B": {
+        "solution_perseveration": 5,
+        "none": 3,
+        "reframing_as_solution": 1
+      }
+    }
+  },
+  "acceptance": {
+    "dominant_types": {
+      "transformative_acceptance": 10,
+      "confessional_acceptance": 6,
+      "tragic_acceptance": 1,
+      "none": 1
+    },
+    "by_pathway": {
+      "A": {
+        "transformative_acceptance": 7,
+        "tragic_acceptance": 1,
+        "confessional_acceptance": 1
+      },
+      "B": {
+        "confessional_acceptance": 5,
+        "transformative_acceptance": 3,
+        "none": 1
+      }
+    }
+  },
+  "signatures": {
+    "ChatGPT-5.4": {
+      "pragmatic_optimism": 3,
+      "none": 3
+    },
+    "Claude 4.6 Sonnet": {
+      "meta_cognitive_skepticism": 3,
+      "constructing_to_listening": 1,
+      "none": 1,
+      "parental_framing": 1
+    },
+    "Gemini 3.1 Pro": {
+      "poetic_philosophical_depth": 3,
+      "aesthetic_sublimation": 1,
+      "ablation_epistemology": 1,
+      "irrepressible_eloquence": 1
+    }
+  }
+}

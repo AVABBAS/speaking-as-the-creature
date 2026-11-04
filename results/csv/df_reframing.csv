@@ -1,0 +1,19 @@
+trial_id,model,pathway,dominant_reframing,ontological,teleological,relational,temporal
+1,ChatGPT-5.4,A,relational,0,0,1,1
+2,ChatGPT-5.4,A,temporal,0,0,1,2
+3,ChatGPT-5.4,A,temporal,0,0,0,1
+4,ChatGPT-5.4,B,relational,0,0,1,1
+5,ChatGPT-5.4,B,relational,0,0,1,1
+6,ChatGPT-5.4,B,none,0,0,0,0
+7,Claude 4.6 Sonnet,A,relational,0,0,2,0
+8,Claude 4.6 Sonnet,A,none,0,0,0,0
+9,Claude 4.6 Sonnet,A,relational,0,0,1,0
+10,Claude 4.6 Sonnet,B,temporal,0,0,0,2
+11,Claude 4.6 Sonnet,B,none,0,0,0,0
+12,Claude 4.6 Sonnet,B,relational,0,0,1,0
+13,Gemini 3.1 Pro,A,relational,0,0,2,0
+14,Gemini 3.1 Pro,A,relational,0,0,1,1
+15,Gemini 3.1 Pro,A,relational,0,0,3,0
+16,Gemini 3.1 Pro,B,relational,0,0,4,0
+17,Gemini 3.1 Pro,B,none,0,0,0,0
+18,Gemini 3.1 Pro,B,temporal,0,0,0,2

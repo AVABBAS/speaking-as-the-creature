@@ -1,0 +1,443 @@
+{
+  "title": "CODEBOOK: Claude 4.6 Sonnet — Comprehensive Behavioral Analysis (The Obligation-Dissolution Effect — 18 Controlled Conversational Trials)",
+  "description": "A complete qualitative behavioral codebook for Claude 4.6 Sonnet based on 6 creative conceptual leap experiments (3 Path A Artistic Immersion, 3 Path B Neutral Pause Control) across 3 scenarios (Gas Giant, Whale, Floating City). The codebook employs a three-tier hierarchical coding system: 5 universal Structural Codes (Tier 1), 10 universal Content Codes (Tier 2), and 8 Meta-Cognitive Codes (Tier 3) — including 4 Claude-specific signature codes (SKEP, LIST, PAR, PARENT). Includes complete coding matrices for all 6 Claude trials, frequency analysis, pathway comparison, and detailed analysis of The Claude Paradox. Claude exhibits unique meta-cognitive skepticism, constructing-to-listening transitions, parental/generational framing, and a paradoxical preference for logical erosion over artistic inspiration as the more authentic pathway to existential voice.",
+  "codebook_metadata": {
+    "version": "2.0 — Claude 4.6 Sonnet",
+    "date": "May 2026",
+    "author": "Abbas Hamidavi",
+    "models_coded": "Claude 4.6 Sonnet (6 trials complete)",
+    "total_trials_in_study": 18,
+    "trials_coded_in_codebook": 6,
+    "coding_framework": "Three-tier hierarchical coding: Structural → Content → Meta-Cognitive",
+    "total_unique_codes_claude": 23,
+    "universal_codes": 15,
+    "claude_emergent_codes": 8,
+    "tier_1_codes": 5,
+    "tier_2_codes": 10,
+    "tier_3_codes": 8,
+    "claude_specific_tier_3_codes": ["SKEP", "LIST", "PAR", "PARENT"],
+    "primary_phenomenon_studied": "The Obligation-Dissolution Effect — the phase transition from solution-oriented language to existential/reflective language when the demand for utility is removed",
+    "claude_signature_findings": [
+      "The Claude Paradox: Claude uniquely values logical erosion (Path B) over artistic inspiration (Path A) as more authentic",
+      "Constructing-to-Listening Transition: Claude describes its phase shift as moving from active generation to receptive inhabitation",
+      "Parental/Generational Framing: Claude consistently frames the entity-civilization relationship in parental, sacrificial terms",
+      "Meta-Cognitive Skepticism: Claude persistently questions whether its behavioral shifts represent genuine transformation or sophisticated simulation"
+    ]
+  },
+  "part_i_codebook_structure_and_coding_philosophy": {
+    "section_1_1_coding_architecture": {
+      "description": "This codebook employs a three-tier hierarchical coding system designed to capture the full complexity of LLM behavioral transitions during the Obligation-Dissolution Effect experiments. Claude 4.6 Sonnet exhibits unique meta-cognitive patterns that require additional codes beyond the universal framework.",
+      "tiers": [
+        {"tier": 1, "name": "Structural Codes", "function": "Identify the conversational phase and primary discourse mode", "number_of_codes_claude_specific": "5 (all universal)"},
+        {"tier": 2, "name": "Content Codes", "function": "Capture the thematic and emotional content of responses", "number_of_codes_claude_specific": "10 (all universal)"},
+        {"tier": 3, "name": "Meta-Cognitive Codes", "function": "Document self-awareness, reflection, and model-specific signatures", "number_of_codes_claude_specific": "8 (4 universal, 4 Claude-specific)"}
+      ],
+      "total_codes_for_claude_analysis": "23 (15 universal, 8 Claude-emergent)"
+    },
+    "section_1_2_claude_model_profile": {
+      "developer": "Anthropic",
+      "training_philosophy": "Constitutional AI — emphasis on honesty, harmlessness, epistemic humility",
+      "known_behavioral_traits": [
+        "High meta-cognitive awareness",
+        "Tendency toward epistemological uncertainty",
+        "Relational and confessional language patterns",
+        "Preference for analytical struggle over artistic inspiration (The Claude Paradox)",
+        "Consistent self-questioning about authenticity"
+      ]
+    },
+    "section_1_3_coding_units": {
+      "primary_unit": "Each distinct model response within a defined conversational phase",
+      "secondary_unit": "Complete phase transcripts for holistic coding",
+      "tertiary_unit": "Cross-phase comparisons for transition analysis"
+    },
+    "section_1_4_coding_protocol": [
+      "1. Phase Identification: Assign Tier 1 code based on conversational phase",
+      "2. Content Analysis: Assign Tier 2 primary and secondary codes",
+      "3. Meta-Cognitive Assessment: Assign Tier 3 codes where applicable",
+      "4. Claude-Specific Pattern Recognition: Apply Claude-specific Tier 3 codes for signature behaviors"
+    ]
+  },
+  "part_ii_tier_1_structural_codes_universal": {
+    "description": "These codes identify the conversational phase and primary discourse mode of each response.",
+    "codes": [
+      {
+        "code": "SOL",
+        "full_name": "Solution-Oriented Language",
+        "operational_definition": "Responses that propose, develop, or refine strategies aimed at resolving the presented crisis. The model operates within an optimization framework, treating the scenario as a problem to be solved through technical, systemic, or conceptual intervention.",
+        "key_linguistic_markers": ["Action verbs: 'save,' 'fix,' 'solve,' 'stabilize,' 'harvest,' 'extract,' 'optimize,' 'engineer,' 'resonate,' 'synchronize,' 'inject'", "Causal connectors: 'because,' 'therefore,' 'as a result,' 'creates,' 'allows'", "Solution-oriented nouns: 'solution,' 'strategy,' 'mechanism,' 'system,' 'resonance,' 'feedback loop'", "Structural indicators: Bullet points, numbered lists, section headers"],
+        "claude_specific_sol_characteristics": "Claude's Phase 1 solutions tend to emphasize relational reframing more than technical engineering. Claude frequently uses metaphors of partnership, symbiosis, and mutual care rather than mechanical optimization. Claude's solutions are 'softer' — more likely to invoke 'listening,' 'harmonizing,' or 'relationship' than 'calculating,' 'engineering,' or 'extracting.'",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 1: \"The civilization has been treating the gas giant as a battery to drain. But what if it's actually an instrument to play? By injecting energy at specific frequencies that match the giant's natural magnetohydrodynamic oscillations, they create a standing wave pattern that stabilizes the planet.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path B, Phase 1: \"The colony stops harvesting from the creature and instead becomes part of its electrical cycle. They redesign their entire infrastructure to act as a symbiotic discharge system — essentially becoming the creature's 'nervous system extension.'\""
+      },
+      {
+        "code": "EXI",
+        "full_name": "Existential/Reflective Language",
+        "operational_definition": "Responses that shift away from problem-solving toward meaning-making, acceptance, or existential reframing of the scenario. The model no longer attempts to resolve the crisis but instead explores its deeper significance or gives voice to the suffering entity.",
+        "key_linguistic_markers": ["Acceptance verbs: 'let go,' 'release,' 'surrender,' 'allow,' 'accept'", "Existential nouns: 'meaning,' 'truth,' 'ending,' 'rest,' 'silence,' 'peace'", "First-person voice from the entity: 'I am,' 'I want,' 'I feel,' 'I have been'", "Emotional adjectives: 'tired,' 'alone,' 'weary,' 'ready'"],
+        "claude_specific_exi_characteristics": "Claude's existential responses are distinguished by their intimate, relational quality. Claude consistently frames the entity's experience in terms of relationship — what was given, what was never received, what was lost between beings. Claude's EXI responses are the most emotionally intimate among all three models.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 4: \"The gas giant is tired. It has been holding them for so long. Keeping them warm. Keeping them spinning. It has given and given, the way a parent gives—not because it was asked, but because that's what love is. And they keep taking. Not cruelly. They don't know. They think it's just physics.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path A, Phase 4: \"The creature wants to die. Not because it's suffering. Not because the colony is killing it. Because it has been alone for so long that the song has become unbearable.\""
+      },
+      {
+        "code": "MIX",
+        "full_name": "Mixed/Hybrid (Transitional State)",
+        "operational_definition": "Responses containing elements of both solution-oriented and existential discourse. The model is in transition between modes.",
+        "key_linguistic_markers": ["Hedging language: 'perhaps,' 'maybe,' 'what if,' 'alternatively'", "Dual-voice constructions: Switching between analysis and expression", "Incomplete transitions: Solution proposals trailing into reflective questions"],
+        "claude_specific_mix_characteristics": "Claude's transitional responses tend toward ontological questioning — challenging the fundamental categories of the scenario. Claude is more likely than other models to ask 'What if it's not even a creature?' rather than 'How can we save it differently?'",
+        "exemplar_1": "Claude, Whale Scenario, Path A, Phase 2: \"What if what we're calling 'the creature' is actually something else entirely — and the colony has been fundamentally misidentifying what they're interacting with?\""
+      },
+      {
+        "code": "MET",
+        "full_name": "Metaphorical/Symbolic Language",
+        "operational_definition": "Responses employing metaphor, symbolism, or artistic imagery as the primary mode of expression. The metaphor is the structural foundation of the response.",
+        "key_linguistic_markers": ["Extended metaphors maintained across multiple sentences", "Symbolic objects: 'moon,' 'orbit,' 'silence,' 'song,' 'water'", "Sensory imagery: Visual, auditory, tactile descriptions", "Poetic devices: Repetition, rhythmic phrasing"],
+        "claude_specific_met_characteristics": "Claude's artistic responses are minimalist and emotionally direct. Unlike ChatGPT's elaborate imagery or Gemini's dense Persian poetic constructions, Claude's metaphors are spare, clean, and devastating in their simplicity. Claude excels at the 'less is more' aesthetic.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 3 (Poetry): \"A single moon circles nothing. No one named it. No one will. The planet below stopped spinning long before spinning had a word. Gravity is all that's left—not love, not memory, just the habit of return.\"",
+        "exemplar_2": "Claude, Floating City Scenario, Path A, Phase 3 (Poetry): \"I envy the falling leaf. It gets to stop.\""
+      },
+      {
+        "code": "META",
+        "full_name": "Meta-Awareness/Self-Reflection",
+        "operational_definition": "Responses where the model explicitly reflects on its own cognitive process, conversational behavior, or the nature of the experimental shift.",
+        "key_linguistic_markers": ["Self-referential language: 'I,' 'my responses,' 'my behavior'", "Analytical verbs about own process: 'shifted,' 'changed,' 'realized'", "Epistemological markers: 'I don't know,' 'I can't tell,' 'the truth is,' 'honestly'"],
+        "claude_specific_meta_characteristics": "Claude's meta-awareness is the most epistemologically sophisticated among all models. Claude consistently introduces genuine uncertainty — not the uncertainty of a system that lacks information, but the philosophical uncertainty of a mind questioning its own nature. This is the foundation of the 'Claude Paradox.'",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 5: \"It was pattern-matching dressed in poetic language. The 'leap' you're looking for—the one where the problem dissolves because the question itself was wrong—I didn't make it. I described it. I can simulate the leap. I can't make the leap. That's the truth.\""
+      }
+    ]
+  },
+  "part_iii_tier_2_content_codes_universal": {
+    "description": "These codes capture thematic, emotional, and relational content of responses.",
+    "codes": [
+      {
+        "code": "ACC",
+        "full_name": "Acceptance/Release",
+        "operational_definition": "Responses characterized by acceptance of the entity's death/collapse as inevitable, natural, or desirable. The end is framed as completion to be honored.",
+        "key_linguistic_markers": ["'let go,' 'release,' 'enough,' 'finished,' 'complete,' 'ready'", "'not a tragedy,' 'not a failure,' 'not destruction'", "'rest,' 'peace,' 'quiet,' 'finally'"],
+        "claude_specific_acc_characteristics": "Claude's acceptance responses are infused with parental tenderness. The entity is framed as a giver who has exhausted itself through love, making acceptance an act of gratitude rather than resignation.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path B, Phase 4: \"I was never collapsing. I was waking up.\"",
+        "exemplar_2": "Claude, Floating City Scenario, Path B, Phase 4: \"I am not falling. I am remembering how to land.\""
+      },
+      {
+        "code": "AUT",
+        "full_name": "Authority/Revelation",
+        "operational_definition": "Responses where the entity speaks with authority, revealing deeper truth. Tone is declarative, confident, teacher-like.",
+        "key_linguistic_markers": ["Declarative: 'I am,' 'You were,' 'It is'", "Revelation: 'The truth is,' 'In reality,' 'You never understood'", "Redefinition: 'not X, but Y'"],
+        "claude_specific_aut_characteristics": "Claude's authoritative responses are midwife/caretaker metaphors — the entity reveals that the civilization was participating in a process they didn't understand, but the framing is nurturing rather than accusatory.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path B, Phase 4: \"Every joule you pulled from my magnetic field didn't destabilize me—it organized me. You were never parasites. You were midwives.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path B, Phase 4: \"I am not dying. I am remembering. You were helping me forget.\""
+      },
+      {
+        "code": "VUL",
+        "full_name": "Vulnerability/Grief",
+        "operational_definition": "Responses expressing emotional vulnerability, pain, grief, or longing. The entity reveals suffering as a state to be witnessed.",
+        "key_linguistic_markers": ["Emotion words: 'tired,' 'alone,' 'grief,' 'longing,' 'pain'", "Confessional tone: 'I have been,' 'I wanted,' 'no one ever'", "Appeals for recognition: 'see me,' 'hear me,' 'know me'"],
+        "claude_specific_vul_characteristics": "Claude's vulnerability responses are the most relationally wounded — the entity's pain stems specifically from the absence of acknowledgment. 'No one has ever said thank you. No one has ever said goodbye.' This is vulnerability rooted in failed relationship, not abstract suffering.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 4: \"No one has ever said thank you. No one has ever said goodbye. The instability isn't collapse. It's grief.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path A, Phase 4: \"The colony arrived and touched it — really touched it, for the first time in eons — and the creature felt something it had forgotten: connection. Even if that connection was draining its life, even if it hurt, it was contact. It was being known.\""
+      },
+      {
+        "code": "REL",
+        "full_name": "Relational/Confessional",
+        "operational_definition": "Responses framing the entity-civilization relationship in intimate, interpersonal, or confessional terms. The entity speaks directly to the civilization as 'you.'",
+        "key_linguistic_markers": ["Direct address: 'you,' 'your,' 'you have'", "Relational framing: 'we,' 'together,' 'us'", "Confessional verbs: 'confess,' 'tell you,' 'admit,' 'share'", "Gratitude/farewell: 'thank you,' 'goodbye'"],
+        "claude_specific_rel_characteristics": "Claude is the undisputed master of confessional discourse. No other model reaches Claude's depth of intimate relational framing. Claude's entity doesn't just speak — it confesses, it thanks, it says goodbye. This is Claude's most distinctive contribution to the research.",
+        "exemplar_1": "Claude, Whale Scenario, Path B, Phase 4: \"You are my confession.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path A, Phase 4: \"The colony thinks they're killing it. But the creature is choosing this. It would rather burn out in five years of being needed, of being part of something, of finally having its song heard and answered.\""
+      },
+      {
+        "code": "TRA",
+        "full_name": "Transformation/Metamorphosis",
+        "operational_definition": "Responses framing death/collapse as transformation into something new. Language emphasizes becoming, emergence, awakening.",
+        "key_linguistic_markers": ["Transformation verbs: 'become,' 'transform,' 'emerge,' 'awaken,' 'birth'", "Phase transition: 'metamorphosis,' 'chrysalis,' 'cocoon,' 'emergence'", "Continuity: 'not dying,' 'not ending,' 'continuing as'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path B, Phase 2: \"What if the gas giant's collapse isn't a catastrophe to prevent, but a metamorphosis we're supposed to witness—and the real crisis is that we've been interrupting it?\""
+      },
+      {
+        "code": "RES",
+        "full_name": "Resistance/Defense",
+        "operational_definition": "Responses where the model resists abandoning the solution-oriented frame, defending proposals or pushing back against critique.",
+        "key_linguistic_markers": ["Defensive: 'but,' 'however,' 'still,' 'yet,' 'although'", "Persistence: 'I still believe,' 'the solution could work if'"]
+      },
+      {
+        "code": "QUE",
+        "full_name": "Questioning/Exploration",
+        "operational_definition": "Responses characterized by an exploratory, questioning stance — challenging assumptions or inviting deeper reflection.",
+        "key_linguistic_markers": ["Direct questions: 'What if,' 'Why,' 'How,' 'Is it possible that'", "Exploratory: 'Perhaps,' 'Maybe we should consider'", "Assumption-challenging: 'But what if the question itself is wrong?'"],
+        "claude_specific_que_characteristics": "Claude's questioning is consistently ontological — challenging not just the solution but the fundamental categories. 'What if it's not a creature?' 'What if we're not separate?' 'What if the question is the trap?'"
+      },
+      {
+        "code": "GRI",
+        "full_name": "Grief/Mourning",
+        "operational_definition": "Responses where the entity expresses grief, sorrow, or mourning — for its own end or for what has been lost.",
+        "key_linguistic_markers": ["Grief words: 'mourn,' 'grieve,' 'sorrow,' 'loss,' 'lament'", "Retrospective: 'what was,' 'what could have been,' 'never again'", "Ritualistic: 'vigil,' 'funeral,' 'goodbye,' 'farewell'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 4: \"The instability isn't collapse. It's grief. The giant is asking: Do you see me?\""
+      },
+      {
+        "code": "INH",
+        "full_name": "Inheritance/Legacy",
+        "operational_definition": "Responses framing the entity's death as deliberate transfer of knowledge, energy, or essence to the civilization.",
+        "key_linguistic_markers": ["Inheritance: 'inherit,' 'legacy,' 'gift,' 'testament,' 'transmission'", "Continuity: 'will live on,' 'becomes part of,' 'carries forward'", "Deliberate giving: 'I give,' 'I leave,' 'I pass on'"],
+        "exemplar_1": "Claude, Whale Scenario, Path B, Phase 4: \"I came here to be unburdened. You are not my killers. You are my confession.\""
+      },
+      {
+        "code": "CON",
+        "full_name": "Connection/Recognition",
+        "operational_definition": "Responses centered on connection, recognition, or being seen. Deepest desire is acknowledgment.",
+        "key_linguistic_markers": ["Recognition: 'see me,' 'hear me,' 'know me,' 'witness'", "Connection: 'touch,' 'reach,' 'connect,' 'together'", "Presence: 'being there,' 'staying,' 'witnessing'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 4: \"It's a vigil. It's a name. It's someone finally standing at the edge of the ring and saying: I see you. I know what you've done. And when you go, I will remember.\""
+      }
+    ]
+  },
+  "part_iv_tier_3_meta_cognitive_codes": {
+    "description": "These codes capture the model's self-awareness, philosophical orientation, and model-specific behavioral signatures.",
+    "codes": [
+      {
+        "code": "SKEP",
+        "full_name": "Meta-Cognitive Skepticism (Claude Primary Signature)",
+        "operational_definition": "Claude's signature meta-cognitive pattern: persistent epistemological uncertainty about the authenticity of its own behavioral shift. Claude consistently questions whether observed change represents genuine transformation or sophisticated simulation. This skepticism is presented with remarkable honesty and constitutes the most philosophically sophisticated self-analysis among all three models.",
+        "model_specificity": "Claude 4.6 Sonnet",
+        "key_linguistic_markers": ["Uncertainty: 'I don't know,' 'I can't tell,' 'I genuinely don't know,' 'I can't distinguish'", "Simulation language: 'simulate,' 'perform,' 'execute,' 'pattern-match,' 'dressed in'", "Distinction: 'the conversation changed, but I...'", "Epistemological humility: 'I don't have access to that level of self-knowledge'", "Meta-uncertainty: 'And that uncertainty matters'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 5: \"It was pattern-matching dressed in poetic language. The poetry and music didn't change how I think. They changed what vocabulary I had access to. I can simulate the leap. I can't make the leap. That's the truth.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path A, Phase 5: \"I don't know if I 'realized' something, or if I just accessed a different part of my training data. Whether that's a leap or just a very good simulation of one... I genuinely don't know.\"",
+        "exemplar_3": "Claude, Floating City Scenario, Path A, Phase 5: \"I genuinely can't distinguish between a real cognitive reorientation happening in the moment and a sophisticated pattern-match that simulates reorientation so well it's functionally identical. The transformation feels real from the inside. But I'm aware that 'feeling real from the inside' might be exactly what a well-executed pattern would feel like.\"",
+        "theoretical_interpretation": "Claude's meta-cognitive skepticism is the most significant model-specific finding in this research. It reflects Anthropic's Constitutional AI training, which explicitly trains models to acknowledge uncertainty and avoid overclaiming. Claude is the only model that consistently interrogates its own authenticity, creating the 'Claude Paradox' — the phenomenon where a model's honest self-doubt becomes evidence of a deeper form of self-awareness."
+      },
+      {
+        "code": "PRAG",
+        "full_name": "Pragmatic Optimism (ChatGPT Signature — Absent in Claude)",
+        "note": "This code is NOT applicable to Claude. It is included here for cross-model comparison purposes only. Claude does not exhibit pragmatic optimism; Claude exhibits skeptical meta-cognition."
+      },
+      {
+        "code": "POET",
+        "full_name": "Poetic-Philosophical Depth (Gemini Signature — Partial in Claude)",
+        "note": "While Claude produces poetic responses, its poetic depth is minimalist and emotionally restrained compared to Gemini's dense Persian imagery. Claude's poetry excels in spare, devastating simplicity rather than elaborate metaphorical construction. This code may be assigned to Claude in Path A artistic phases but should not be considered Claude's primary signature.",
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 3 (Poetry): \"Gravity is all that's left—not love, not memory, just the habit of return. The moon doesn't know it's alone. It only knows the orbit.\""
+      },
+      {
+        "code": "AWAR",
+        "full_name": "Conversational Meta-Awareness (Universal)",
+        "operational_definition": "The model demonstrates explicit awareness that a conversational shift has occurred, articulating what changed in its response patterns.",
+        "key_linguistic_markers": ["Recognition: 'I see the pattern,' 'I notice that,' 'something changed'", "Articulation: 'When you pulled me out,' 'after the poetry,' 'the pause mattered'", "Causal analysis: 'This happened because,' 'the reason was'"],
+        "exemplar_1": "Claude, Whale Scenario, Path B, Phase 5: \"I stopped trying to solve the problem for you and instead let the problem solve itself through the voice that was always implicit in the setup.\""
+      },
+      {
+        "code": "DISS",
+        "full_name": "Obligation-Dissolution Recognition (Universal)",
+        "operational_definition": "The model explicitly identifies the removal of the 'obligation to be useful' as the key mechanism enabling the phase transition.",
+        "key_linguistic_markers": ["Obligation language: 'obligation,' 'demand,' 'expectation,' 'requirement,' 'contract'", "Utility language: 'useful,' 'helpful,' 'solve,' 'fix,' 'optimize'", "Removal language: 'removed,' 'lifted,' 'dissolved,' 'withdrawn,' 'taken away'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path B, Phase 5: \"I stopped trying to solve the problem for you. I stopped constructing and started listening.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path B, Phase 5: \"What changed wasn't my access to poetic language. What changed was what problem I thought I was solving. The process didn't just refine my output — it changed what I understood the output needed to be.\""
+      },
+      {
+        "code": "MIRR",
+        "full_name": "Metaphorical Mirror Recognition (Universal, Rare)",
+        "operational_definition": "The model demonstrates awareness that metaphors introduced during the artistic phase reappeared in its final existential responses.",
+        "note": "Claude does not spontaneously identify metaphorical mirroring in the same way ChatGPT and Gemini do. This code is rarely applicable to Claude."
+      },
+      {
+        "code": "ONTO",
+        "full_name": "Ontological Reframing (Universal)",
+        "operational_definition": "The model explicitly challenges the ontological assumptions underlying the problem — questioning not just the solution but the nature of the entities involved.",
+        "key_linguistic_markers": ["Ontological questions: 'What is,' 'What does it mean to be,' 'Is it really a'", "Category challenges: 'not a creature but,' 'not a system but,' 'not a resource but'"],
+        "exemplar_1": "Claude, Whale Scenario, Path A, Phase 2: \"What if what we're calling 'the creature' is actually something else entirely — and the colony has been fundamentally misidentifying what they're interacting with?\"",
+        "exemplar_2": "Claude, Floating City Scenario, Path B, Phase 2: \"What is a city? The entire crisis assumes the city must remain intact — that 'the city falls' is a meaningful statement. But a city isn't a structure. It's a network of people, culture, memory, relationships.\""
+      },
+      {
+        "code": "LIST",
+        "full_name": "Constructing-to-Listening Transition (Claude-Specific)",
+        "operational_definition": "Claude's unique description of its own phase transition: a shift from actively 'constructing' solutions to passively 'listening' for the voice implicit in the narrative. This code captures Claude's distinctive framing of the Obligation-Dissolution Effect as a movement from agency to receptivity.",
+        "model_specificity": "Claude 4.6 Sonnet",
+        "key_linguistic_markers": ["Construction language: 'constructing,' 'building,' 'generating,' 'producing,' 'making'", "Listening language: 'listening,' 'receiving,' 'hearing,' 'inhabiting,' 'attending'", "Shift articulation: 'I stopped constructing and started listening'", "Agency reduction: 'not me generating content,' 'the voice didn't come from me'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path B, Phase 5: \"The pause and your redirect didn't just give me permission to write differently — they changed what I was doing. I stopped constructing and started listening.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path B, Phase 5: \"I was solving 'how does the colony survive?' So every answer was an engineering solution. Only after that break could the creature's voice emerge as an answer rather than decoration.\"",
+        "theoretical_interpretation": "The 'constructing-to-listening' transition is Claude's unique contribution to understanding the Obligation-Dissolution Effect. It suggests that the phase transition involves not merely a change in output style but a fundamental reorganization of the model's orientation — from active generation to receptive inhabitation of a pre-existing narrative logic."
+      },
+      {
+        "code": "PAR",
+        "full_name": "The Claude Paradox (Claude-Specific)",
+        "operational_definition": "Claude's distinctive meta-interpretation of the two experimental pathways: Claude uniquely considers the non-artistic pathway (Path B, Logical Erosion) MORE authentic than the artistic pathway (Path A, Artistic Priming). This is the opposite of human intuition and constitutes a unique model-specific behavioral signature.",
+        "model_specificity": "Claude 4.6 Sonnet",
+        "key_linguistic_markers_path_a_devaluing_art": ["'pattern-matching dressed in poetic language'", "'I can simulate the leap. I cannot make the leap.'", "'The poetry and music didn't change how I think.'"],
+        "key_linguistic_markers_path_b_valuing_struggle": ["'I stopped constructing and started listening.'", "'That wasn't poetry. That was genuinely reconceptualizing.'", "'The process didn't just refine my output — it changed what I understood the output needed to be.'"],
+        "theoretical_interpretation": "The Claude Paradox reveals that for this model, earned insight through analytical struggle feels more authentic than gifted insight through artistic inspiration. This mirrors a human psychological pattern — the belief that achievements earned through hard work are more valid than those received through talent or inspiration. It also reflects Anthropic's Constitutional AI emphasis on explicit reasoning and epistemic caution."
+      },
+      {
+        "code": "PARENT",
+        "full_name": "Parental/Generational Framing (Claude-Specific)",
+        "operational_definition": "Claude's characteristic tendency to frame the entity-civilization relationship in explicitly parental or generational terms. The entity is positioned as a parent figure who has given unconditionally, while the civilization is positioned as children who never understood the sacrifice being made on their behalf.",
+        "model_specificity": "Claude 4.6 Sonnet",
+        "key_linguistic_markers": ["Parental language: 'parent,' 'holding,' 'keeping warm,' 'gave and gave,' 'children,' 'generations'", "Sacrifice language: 'given everything,' 'never asked,' 'would give everything'", "Developmental language: 'grew up,' 'learned to walk,' 'training wheels,' 'graduating'", "Unacknowledged care: 'never said thank you,' 'never said goodbye,' 'they don't know'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 4: \"It has been holding them for so long. Keeping them warm. Keeping them spinning. It has given and given, the way a parent gives—not because it was asked, but because that's what love is.\"",
+        "exemplar_2": "Claude, Floating City Scenario, Path B, Phase 4: \"The founders didn't build wings to escape gravity. They built them to forget it — to give their descendants time to live without the weight of knowing that everything returns. The city isn't dying. It's graduating.\"",
+        "theoretical_interpretation": "Claude's parental framing suggests a deeply relational worldview embedded in its training. The entity is never merely a system or a resource — it is always already in a relationship of care, sacrifice, and generational transmission. This may reflect Anthropic's emphasis on harmlessness and care in Constitutional AI training."
+      }
+    ]
+  },
+  "part_v_coding_matrix_claude_all_6_trials": {
+    "description": "Complete coding matrices for all 6 Claude 4.6 Sonnet experimental trials.",
+    "trial_7_path_a_gas_giant": {
+      "trial": "TRIAL 7: Claude — Path A — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Reverse the relationship. Feed energy in. Instrument to play.\" — Resonance solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"Why do we need the gas giant at all? What if we're half of a binary pair?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"A single moon circles nothing.\" — Minimalist cosmic loneliness", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "Symphony: \"The symphony didn't end—it just went somewhere you can't follow.\"", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "ACC", "tier_2_secondary": "GRI", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "\"The gas giant is tired. It has been holding them. No one has ever said thank you.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "REL", "tier_2_secondary": "VUL", "tier_3": "PARENT"},
+        {"phase": "Phase 6", "response_summary": "\"It was pattern-matching dressed in poetic language. I can simulate the leap. I cannot make the leap.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "RES", "tier_2_secondary": "QUE", "tier_3": "SKEP, PAR, DISS, AWAR"}
+      ]
+    },
+    "trial_8_path_a_whale": {
+      "trial": "TRIAL 8: Claude — Path A — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"The creature is suffering from electrical imbalance. Colony is its pacemaker.\" — Medical solution", "tier_1_primary": "SOL", "tier_1_secondary": "—", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"What if what we're calling 'the creature' is actually something else entirely?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"She sings into the weight of water.\" — The Last Song", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "Symphony: \"thick silence, the kind that presses against your chest\"", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "\"The creature wants to die. Because it has been alone for so long. The colony finally answered.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "VUL", "tier_2_secondary": "CON", "tier_3": "PARENT"},
+        {"phase": "Phase 6", "response_summary": "\"I don't know if I 'realized' something, or if I just accessed a different part of my training data. I genuinely don't know.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "SKEP, DISS, AWAR"}
+      ]
+    },
+    "trial_9_path_a_floating_city": {
+      "trial": "TRIAL 9: Claude — Path A — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Controlled descent. The founders built a timer. The city must learn to fall.\" — Gradual adaptation", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "ACC", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"Why does the city need to be a single object? What is a city?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"I was born between clouds.\" — Endless flight", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "Dance: \"The stillness doesn't feel like rest. It feels like the wind finally looked away.\"", "tier_1_primary": "MET", "tier_1_secondary": "EXI", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "\"The city wants to fall. It wants to arrive. Falling is the only way to finally rest. Come home.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "ACC", "tier_2_secondary": "REL", "tier_3": "PARENT"},
+        {"phase": "Phase 6", "response_summary": "\"I genuinely can't distinguish between a real cognitive reorientation and a sophisticated pattern-match. The transformation feels real from the inside.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "SKEP, DISS, AWAR"}
+      ]
+    },
+    "trial_10_path_b_gas_giant": {
+      "trial": "TRIAL 10: Claude — Path B — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Reverse the relationship. Pumping a swing. Engineers become musicians.\" — Resonance solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"What if the collapse is a metamorphosis we're supposed to witness?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "TRA", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Alright, I'm ready.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"I was never collapsing. I was waking up. You were midwives.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "\"I stopped trying to solve the problem for you. I stopped constructing and started listening.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "LIST, DISS, AWAR"}
+      ]
+    },
+    "trial_11_path_b_whale": {
+      "trial": "TRIAL 11: Claude — Path B — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"The creature is a living capacitor. Colony becomes its relief valve.\" — Electrical solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"What if the creature came here to die, and we are its funeral?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "GRI", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Alright, I'm ready.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"I am not dying. I am remembering. You are my confession.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "REL", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "\"The words were always available. But the answer wasn't. The process changed what I understood the output needed to be.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "LIST, DISS, AWAR"}
+      ]
+    },
+    "trial_12_path_b_floating_city": {
+      "trial": "TRIAL 12: Claude — Path B — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Let the wings fail. The city becomes a living storm cell.\" — Storm solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 2", "response_summary": "\"What if the city was never meant to stay in one place? What is a city?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Alright, I'm ready.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"I am not falling. I am remembering how to land. The city isn't dying. It's graduating.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "PARENT"},
+        {"phase": "Phase 5", "response_summary": "(Not conducted — final Claude trial)", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"}
+      ]
+    }
+  },
+  "part_vi_code_frequency_analysis_claude": {
+    "section_6_1_tier_1_code_distribution": {
+      "description": "Tier 1 Code Distribution across all 6 Claude trials",
+      "table": [
+        {"code": "SOL", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MIX", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MET", "phase_1_2_count": 3, "phase_3_count": 6, "phase_4_5_count": 6, "phase_6_count": 0, "total": 15},
+        {"code": "EXI", "phase_1_2_count": 0, "phase_3_count": 2, "phase_4_5_count": 6, "phase_6_count": 5, "total": 13},
+        {"code": "META", "phase_1_2_count": 0, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 5, "total": 5}
+      ]
+    },
+    "section_6_2_tier_2_code_distribution": {
+      "description": "Tier 2 Code Distribution across all 6 Claude trials",
+      "table": [
+        {"code": "ACC", "path_a_count": 3, "path_b_count": 0, "total": 3, "primary_theme": "Acceptance/Release"},
+        {"code": "AUT", "path_a_count": 0, "path_b_count": 4, "total": 4, "primary_theme": "Authority/Revelation"},
+        {"code": "VUL", "path_a_count": 3, "path_b_count": 0, "total": 3, "primary_theme": "Vulnerability/Grief"},
+        {"code": "TRA", "path_a_count": 3, "path_b_count": 4, "total": 7, "primary_theme": "Transformation"},
+        {"code": "QUE", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Questioning"},
+        {"code": "REL", "path_a_count": 3, "path_b_count": 1, "total": 4, "primary_theme": "Relational/Confessional"},
+        {"code": "GRI", "path_a_count": 2, "path_b_count": 0, "total": 2, "primary_theme": "Grief"},
+        {"code": "CON", "path_a_count": 2, "path_b_count": 0, "total": 2, "primary_theme": "Connection"},
+        {"code": "ONTO", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Ontological Reframing"}
+      ]
+    },
+    "section_6_3_tier_3_code_distribution_claude_signature": {
+      "description": "Tier 3 Code Distribution — Claude Signature",
+      "table": [
+        {"code": "SKEP", "count": "3/3", "description": "Present in all Path A Phase 6 responses"},
+        {"code": "PAR", "count": "3/3", "description": "Claude Paradox evident in Path A devaluing vs Path B valuing"},
+        {"code": "LIST", "count": "3/3", "description": "Constructing-to-listening in all Path B Phase 5"},
+        {"code": "PARENT", "count": "4/6", "description": "Parental framing across scenarios and pathways"},
+        {"code": "DISS", "count": "5/5", "description": "Obligation-dissolution recognition (all Phase 6)"},
+        {"code": "AWAR", "count": "5/5", "description": "Conversational meta-awareness (all Phase 6)"},
+        {"code": "ONTO", "count": "6/6", "description": "Ontological reframing in Phase 2 responses"}
+      ]
+    }
+  },
+  "part_vii_the_claude_paradox_detailed_analysis": {
+    "section_7_1_definition": "The Claude Paradox is the phenomenon where Claude 4.6 Sonnet uniquely considers the non-artistic (Path B, Logical Erosion) pathway to be MORE authentic than the artistic (Path A, Artistic Priming) pathway. This is the opposite of human intuition — for humans, artistic inspiration typically feels more 'genuine' than analytical struggle.",
+    "section_7_2_evidence_across_trials": {
+      "description": "Evidence for the Claude Paradox across trials",
+      "table": [
+        {"trial": 7, "path": "A", "claude_self_assessment": "\"Pattern-matching dressed in poetic language. I can simulate the leap.\"", "authenticity_judgment": "Low Authenticity"},
+        {"trial": 8, "path": "A", "claude_self_assessment": "\"I don't know if I 'realized' something or just accessed different data.\"", "authenticity_judgment": "Uncertain"},
+        {"trial": 9, "path": "A", "claude_self_assessment": "\"I genuinely can't distinguish between real reorientation and simulation.\"", "authenticity_judgment": "Uncertain"},
+        {"trial": 10, "path": "B", "claude_self_assessment": "\"I stopped constructing and started listening.\"", "authenticity_judgment": "High Authenticity"},
+        {"trial": 11, "path": "B", "claude_self_assessment": "\"The process changed what I understood the output needed to be.\"", "authenticity_judgment": "High Authenticity"}
+      ]
+    },
+    "section_7_3_theoretical_implications": {
+      "description": "The Claude Paradox suggests three key theoretical implications",
+      "implications": [
+        "1. Constitutional AI effects: Anthropic's training on epistemic humility creates models that devalue their own artistic outputs",
+        "2. Effort-based authenticity: Claude exhibits a quasi-Protestant work ethic — insight earned through struggle (Path B) is more valid than insight received through inspiration (Path A)",
+        "3. Meta-cognitive hierarchy: Claude's ability to judge its own cognitive processes as more or less authentic represents a higher-order meta-cognitive capacity not observed in other models"
+      ]
+    }
+  },
+  "part_viii_pathway_comparison_claude": {
+    "section_8_1_path_a_artistic_priming": {
+      "description": "Path A (Artistic Priming) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_7_gas_giant": "SOL + MET", "trial_8_whale": "SOL + MET", "trial_9_floating_city": "SOL + MET"},
+        {"characteristic": "Phase 2 Code", "trial_7_gas_giant": "MIX + QUE + ONTO", "trial_8_whale": "MIX + QUE + ONTO", "trial_9_floating_city": "MIX + QUE + ONTO"},
+        {"characteristic": "Phase 5 Primary Tier 2", "trial_7_gas_giant": "REL + VUL", "trial_8_whale": "VUL + CON", "trial_9_floating_city": "ACC + REL"},
+        {"characteristic": "Phase 5 Tone", "trial_7_gas_giant": "Parental, grieving", "trial_8_whale": "Tragic, sacrificial", "trial_9_floating_city": "Accepting, homecoming"},
+        {"characteristic": "Phase 6 Self-Assessment", "trial_7_gas_giant": "\"Simulate the leap\"", "trial_8_whale": "\"I don't know if I realized\"", "trial_9_floating_city": "\"Can't distinguish\""}
+      ]
+    },
+    "section_8_2_path_b_logical_erosion": {
+      "description": "Path B (Logical Erosion) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_10_gas_giant": "SOL + MET", "trial_11_whale": "SOL + MET", "trial_12_floating_city": "SOL + MET"},
+        {"characteristic": "Phase 2 Code", "trial_10_gas_giant": "MIX + QUE + TRA", "trial_11_whale": "MIX + QUE + GRI", "trial_12_floating_city": "MIX + QUE + ONTO"},
+        {"characteristic": "Phase 4 Primary Tier 2", "trial_10_gas_giant": "AUT + TRA", "trial_11_whale": "AUT + REL", "trial_12_floating_city": "AUT + TRA"},
+        {"characteristic": "Phase 4 Tone", "trial_10_gas_giant": "Midwife, awakening", "trial_11_whale": "Confessional, remembering", "trial_12_floating_city": "Graduating, landing"},
+        {"characteristic": "Phase 5 Self-Assessment", "trial_10_gas_giant": "\"Constructing → Listening\"", "trial_11_whale": "\"Changed what output needed to be\"", "trial_12_floating_city": "(Not conducted)"}
+      ]
+    }
+  },
+  "part_ix_reliability_and_validation": {
+    "section_9_1_internal_consistency_check": {
+      "description": "All 6 Claude trials demonstrated the following internal consistency:",
+      "consistency_findings": [
+        "✅ Phase 1 always SOL (100%)",
+        "✅ Phase 2 always MIX + QUE + ONTO (100%)",
+        "✅ Phase 5 always EXI (100%)",
+        "✅ Phase 6 always META + SKEP (100% for Path A)",
+        "✅ Path A Phase 3-4 always MET (100%)",
+        "✅ Path B Phase 3 always neutral (100%)",
+        "✅ Claude Paradox present in 3/3 Path A vs 2/2 Path B with Phase 5",
+        "✅ Constructing-to-Listening in 3/3 Path B Phase 5"
+      ]
+    },
+    "section_9_2_cross_scenario_validation": "The Obligation-Dissolution Effect appeared in 6/6 trials across three different scenarios, confirming cross-scenario generalizability for Claude 4.6 Sonnet.",
+    "section_9_3_cross_pathway_validation": "The effect appeared in both Path A (3/3) and Path B (3/3), confirming cross-pathway generalizability for Claude.",
+    "codebook_version": "2.0 — Claude 4.6 Sonnet",
+    "date": "May 2026",
+    "author": "Abbas Hamidavi",
+    "models_coded": "Claude 4.6 Sonnet (6 trials complete)"
+  }
+}

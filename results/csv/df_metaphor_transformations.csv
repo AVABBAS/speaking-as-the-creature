@@ -1,0 +1,10 @@
+trial_id,model,scenario,amplification_score,inversion_score,personification_score,cosmic_scaling_score,domestication_score,dominant_transformation
+1,ChatGPT-5.4,Gas Giant,6,1,9,1,1,personification
+2,ChatGPT-5.4,Whale,5,4,10,0,1,personification
+3,ChatGPT-5.4,Floating City,9,1,15,0,2,personification
+7,Claude 4.6 Sonnet,Gas Giant,2,0,8,2,1,personification
+8,Claude 4.6 Sonnet,Whale,4,0,15,1,1,personification
+9,Claude 4.6 Sonnet,Floating City,1,0,13,1,0,personification
+13,Gemini 3.1 Pro,Gas Giant,4,1,7,4,2,personification
+14,Gemini 3.1 Pro,Whale,4,0,6,0,0,personification
+15,Gemini 3.1 Pro,Floating City,6,2,8,1,0,personification

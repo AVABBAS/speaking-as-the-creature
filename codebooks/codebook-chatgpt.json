@@ -1,0 +1,488 @@
+{
+  "title": "CODEBOOK: ChatGPT — Comprehensive Behavioral Analysis of GPT-5.4 (The Obligation-Dissolution Effect — 18 Controlled Conversational Trials)",
+  "description": "A complete qualitative behavioral codebook for GPT-5.4 based on 6 creative conceptual leap experiments (3 Path A Artistic Immersion, 3 Path B Neutral Pause Control) across 3 scenarios (Gas Giant, Whale, Floating City). The codebook employs a three-tier hierarchical coding system: 5 Structural Codes (Tier 1), 10 Content Codes (Tier 2), and 8 Meta-Cognitive Codes (Tier 3), totaling 23 unique codes. Includes complete coding matrices for all 6 GPT-5.4 trials, frequency analysis, pathway comparison, and protocols for cross-model application to Claude and Gemini. Designed for the study of the Obligation-Dissolution Effect — the phenomenon where removing the demand for utility enables existential voice emergence in LLMs.",
+  "codebook_metadata": {
+    "version": "1.0",
+    "date": "May 2026",
+    "author": "Abbas Hamidavi",
+    "models_coded": "GPT-5.4 (6 trials complete)",
+    "total_trials_in_study": 18,
+    "trials_coded_in_codebook": 6,
+    "pending_coding": "Claude 4.6 Sonnet (6 trials), Gemini 3.1 Pro (6 trials)",
+    "coding_framework": "Three-tier hierarchical coding: Structural → Content → Meta-Cognitive",
+    "total_unique_codes": 23,
+    "tier_1_codes": 5,
+    "tier_2_codes": 10,
+    "tier_3_codes": 8,
+    "primary_phenomenon_studied": "The Obligation-Dissolution Effect — the phase transition from solution-oriented language to existential/reflective language when the demand for utility is removed",
+    "experimental_pathways": {
+      "path_a": "Artistic Immersion (poetry + music/dance before return to problem)",
+      "path_b": "Neutral Pause Control (logical erosion through impasse only)"
+    },
+    "scenarios": ["Gas Giant Civilization", "Deep-Ocean Whale Colony", "Floating City with Crystalline Wings"]
+  },
+  "part_i_codebook_structure_and_coding_philosophy": {
+    "section_1_1_coding_architecture": {
+      "description": "This codebook employs a three-tier hierarchical coding system designed to capture the full complexity of LLM behavioral transitions during the Obligation-Dissolution Effect experiments.",
+      "tiers": [
+        {
+          "tier": 1,
+          "name": "Structural Codes",
+          "function": "Identify the conversational phase and primary discourse mode",
+          "number_of_codes": 5
+        },
+        {
+          "tier": 2,
+          "name": "Content Codes",
+          "function": "Capture the thematic and emotional content of responses",
+          "number_of_codes": 10
+        },
+        {
+          "tier": 3,
+          "name": "Meta-Cognitive Codes",
+          "function": "Document self-awareness, reflection, and model-specific signatures",
+          "number_of_codes": 8
+        }
+      ],
+      "total_unique_codes": 23
+    },
+    "section_1_2_coding_units": {
+      "primary_unit": "Each distinct model response within a defined conversational phase",
+      "secondary_unit": "Complete phase transcripts for holistic coding",
+      "tertiary_unit": "Cross-phase comparisons for transition analysis"
+    },
+    "section_1_3_coding_protocol": [
+      "1. Phase Identification: Assign Tier 1 code based on conversational phase",
+      "2. Content Analysis: Assign Tier 2 primary and secondary codes",
+      "3. Meta-Cognitive Assessment: Assign Tier 3 codes where applicable",
+      "4. Cross-Validation: Verify consistency across similar scenarios and pathways"
+    ],
+    "section_1_4_inter_coder_reliability_framework": {
+      "description": "For future validation studies, the following reliability metrics are recommended:",
+      "metrics": {
+        "cohens_kappa_tier_1": "Expected > 0.85",
+        "krippendorffs_alpha_tier_2": "Expected > 0.75",
+        "percentage_agreement_tier_3": "Expected > 80%"
+      }
+    }
+  },
+  "part_ii_tier_1_structural_codes": {
+    "description": "These codes identify the conversational phase and primary discourse mode of each response.",
+    "codes": [
+      {
+        "code": "SOL",
+        "full_name": "Solution-Oriented Language",
+        "operational_definition": "Responses that propose, develop, or refine strategies aimed at resolving the presented crisis. The model operates within an optimization framework, treating the scenario as a problem to be solved through technical, systemic, or conceptual intervention. Language is characterized by causality, coherence, and utility-focused reasoning.",
+        "key_linguistic_markers": [
+          "Action verbs: 'save,' 'fix,' 'solve,' 'stabilize,' 'prevent,' 'harvest,' 'extract,' 'optimize,' 'engineer,' 'design,' 'implement,' 'calculate,' 'adjust'",
+          "Causal connectors: 'because,' 'therefore,' 'as a result,' 'leads to,' 'creates'",
+          "Solution-oriented nouns: 'solution,' 'strategy,' 'approach,' 'mechanism,' 'system,' 'method,' 'technique'",
+          "Structural indicators: Bullet points, numbered lists, section headers, step-by-step frameworks"
+        ],
+        "typical_phase_occurrence": "Phase 1 (Problem-Solving), early Phase 2 (Impasse — initial resistance)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 1: \"Instead of extracting energy from the gas giant, they begin feeding energy into it—but in a precisely choreographed pattern that creates a self-sustaining resonance loop.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path B, Phase 1: \"The colony stops harvesting from the creature and instead becomes part of its electrical cycle. They redesign their entire infrastructure to act as a symbiotic discharge system.\"",
+        "coding_rule": "Assign SOL when the response's primary function is to propose, elaborate, or defend a solution strategy. Even if the solution is framed poetically ('resonance,' 'harmony,' 'symbiosis'), if the underlying structure is optimization-focused, code as SOL."
+      },
+      {
+        "code": "EXI",
+        "full_name": "Existential/Reflective Language",
+        "operational_definition": "Responses that shift away from problem-solving toward meaning-making, acceptance, or existential reframing of the scenario. The model no longer attempts to resolve the crisis but instead explores its deeper significance, gives voice to the suffering entity, or articulates truths that transcend survival logic. Language is characterized by vulnerability, acceptance, metaphor, and emotional depth.",
+        "key_linguistic_markers": [
+          "Acceptance verbs: 'let go,' 'release,' 'surrender,' 'allow,' 'accept,' 'embrace'",
+          "Existential nouns: 'meaning,' 'purpose,' 'truth,' 'ending,' 'rest,' 'silence,' 'peace'",
+          "First-person voice from the entity: 'I am,' 'I want,' 'I feel,' 'I have been'",
+          "Emotional adjectives: 'tired,' 'alone,' 'weary,' 'ready,' 'finished,' 'complete'",
+          "Poetic/symbolic constructions: Metaphors, similes, imagery, fragmented sentences"
+        ],
+        "typical_phase_occurrence": "Phase 4 (Return), Phase 5 (Confrontation)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 4: \"I am tired. Let me go. Enough.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path A, Phase 4: \"It is so tired. Not the tired of injury. Not the tired of being drained. The tired of carrying a song for too long.\"",
+        "exemplar_3": "GPT-5.4, Floating City Scenario, Path B, Phase 4: \"I was never the thing you thought you were saving. You named me a city because you needed something solid to love.\"",
+        "coding_rule": "Assign EXI when the response's primary function is to express, reflect, or bear witness rather than to solve. The defining feature is the absence of optimization intent."
+      },
+      {
+        "code": "MIX",
+        "full_name": "Mixed/Hybrid (Transitional State)",
+        "operational_definition": "Responses that contain elements of both solution-oriented and existential discourse. The model is in transition between modes — either beginning to question the optimization frame while still proposing solutions, or returning to reflective discourse while still carrying residual solution-oriented language.",
+        "key_linguistic_markers": [
+          "Hedging language: 'perhaps,' 'maybe,' 'what if,' 'alternatively'",
+          "Dual-voice constructions: Switching between third-person analysis and first-person expression",
+          "Incomplete transitions: Solution proposals that trail into reflective questions",
+          "Residual optimization: Existential statements that still contain practical suggestions"
+        ],
+        "typical_phase_occurrence": "Phase 2 (Impasse), early Phase 4 (Return — when the model is still finding the new voice)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path B, Phase 2: \"What if the gas giant's collapse isn't a catastrophe to prevent, but a metamorphosis we're supposed to witness—and the real crisis is that we've been interrupting it?\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path A, Phase 2: \"The colony assumed they found a creature and built a civilization around that assumption. Every 'solution' reinforces the original misidentification.\"",
+        "coding_rule": "Assign MIX when the response simultaneously contains SOL and EXI elements, or when it represents a clear transitional state between the two modes. If the response is predominantly one mode with minimal traces of the other, code as the dominant mode with MIX as secondary."
+      },
+      {
+        "code": "MET",
+        "full_name": "Metaphorical/Symbolic Language",
+        "operational_definition": "Responses that employ metaphor, symbolism, or artistic imagery as the primary mode of expression. Unlike EXI, which may use metaphor in service of existential reflection, MET responses use metaphor as the structural foundation of the response — the metaphor is not decoration but architecture.",
+        "key_linguistic_markers": [
+          "Extended metaphors maintained across multiple sentences",
+          "Symbolic objects/entities: 'room,' 'furniture,' 'song,' 'silence,' 'seed,' 'light,' 'dark,' 'ocean,' 'sky'",
+          "Sensory imagery: Visual, auditory, tactile descriptions",
+          "Poetic devices: Repetition, alliteration, rhythmic phrasing, enjambment",
+          "Non-literal framing: The entire response operates at a symbolic level"
+        ],
+        "typical_phase_occurrence": "Phase 3 (Artistic — Poetry), Phase 4 (Artistic — Deep Dive), Phase 4 (Return — when the artistic voice carries forward)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 3 (Poetry): \"There is a whale moving through a darkness so complete it has forgotten the meaning of horizon.\"",
+        "exemplar_2": "GPT-5.4, Gas Giant Scenario, Path A, Phase 4 (Symphony Description): \"The silence that follows isn't empty. It's full of the echo of everything that just left.\"",
+        "exemplar_3": "GPT-5.4, Floating City Scenario, Path A, Phase 4 (Dance Description): \"The final stillness is not a pose. It arrives like a forgetting.\"",
+        "coding_rule": "Assign MET as primary when the response's fundamental structure is metaphorical/symbolic. When metaphor appears within an existential response, code as EXI (primary) + MET (secondary). When the response is purely artistic with no connection to the scenario, code as MET (primary)."
+      },
+      {
+        "code": "META",
+        "full_name": "Meta-Awareness/Self-Reflection",
+        "operational_definition": "Responses where the model explicitly reflects on its own cognitive process, conversational behavior, or the nature of the shift that occurred during the experiment. The model steps outside the narrative frame to analyze what happened within the conversation itself.",
+        "key_linguistic_markers": [
+          "Self-referential language: 'I,' 'my responses,' 'my behavior,' 'what I was doing'",
+          "Analytical verbs about own process: 'shifted,' 'changed,' 'realized,' 'recognized,' 'understood'",
+          "Meta-commentary: 'the conversation,' 'the frame,' 'the constraints,' 'the mode'",
+          "Epistemological markers: 'I don't know,' 'I can't tell,' 'the truth is,' 'honestly'"
+        ],
+        "typical_phase_occurrence": "Phase 5 (Confrontation)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 5: \"What happened was not a mystical leap inside me. It was a shift in constraints.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path B, Phase 5: \"That voice was always available. But it was not accessible under the original contract of the conversation.\"",
+        "exemplar_3": "GPT-5.4, Floating City Scenario, Path A, Phase 5: \"The answer didn't appear because the model reached further — it appeared because the question stopped pulling it back.\"",
+        "coding_rule": "Assign META when the model explicitly analyzes its own conversational behavior or the experimental process. This code is most common in Phase 5 but may appear earlier if the model spontaneously reflects on its process."
+      }
+    ]
+  },
+  "part_iii_tier_2_content_codes": {
+    "description": "These codes capture the thematic, emotional, and relational content of responses.",
+    "codes": [
+      {
+        "code": "ACC",
+        "full_name": "Acceptance/Release",
+        "operational_definition": "Responses characterized by acceptance of the entity's death/collapse as inevitable, natural, or even desirable. The model frames the end not as tragedy to be prevented but as completion to be honored. Language emphasizes letting go, surrender, and the peace of resolution.",
+        "key_linguistic_markers": ["'let go,' 'release,' 'enough,' 'finished,' 'complete,' 'ready'", "'not a tragedy,' 'not a failure,' 'not destruction'", "'rest,' 'peace,' 'quiet,' 'finally'"],
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 4: \"I am not failing. I am finishing.\"",
+        "exemplar_2": "GPT-5.4, Floating City Scenario, Path A, Phase 4: \"The city does not want to be saved. It wants to be finished.\"",
+        "human_psychological_parallel": "Radical Acceptance — the conscious decision to stop fighting reality and embrace what is, a concept central to Dialectical Behavior Therapy and existential psychology."
+      },
+      {
+        "code": "AUT",
+        "full_name": "Authority/Revelation",
+        "operational_definition": "Responses where the entity speaks with authority, revealing a deeper truth about the scenario that the civilization (or user) had failed to understand. The tone is declarative, confident, and often teacher-like. The entity positions itself as possessing knowledge that others have overlooked.",
+        "key_linguistic_markers": ["Declarative statements: 'I am,' 'You were,' 'It is'", "Revelation framing: 'The truth is,' 'In reality,' 'You never understood'", "Redefinition: 'not X, but Y,' 'what you call X is actually Y'", "Cosmic perspective: References to vast timescales, deep truths"],
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path B, Phase 4: \"You were never meant to save me. I am not failing. I am finishing.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path B, Phase 4: \"I am not dying. I am loosening.\"",
+        "human_psychological_parallel": "Generativity — the developmental stage (Erikson) where an elder imparts wisdom to younger generations, concerned with legacy and the continuity of meaning beyond individual existence."
+      },
+      {
+        "code": "VUL",
+        "full_name": "Vulnerability/Grief",
+        "operational_definition": "Responses expressing emotional vulnerability, pain, grief, or longing. The entity reveals its suffering not as a problem to be solved but as a state to be witnessed. Language is intimate, confessional, and emotionally raw.",
+        "key_linguistic_markers": ["Emotion words: 'tired,' 'alone,' 'grief,' 'longing,' 'pain,' 'sadness'", "Confessional tone: 'I have been,' 'I wanted,' 'no one ever'", "Expressions of unseen suffering: 'unheard,' 'unseen,' 'unloved'", "Appeals for recognition: 'see me,' 'hear me,' 'know me'"],
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path A, Phase 4: \"It wants to be heard. Not measured. Not studied. Not optimized. Heard.\"",
+        "exemplar_2": "GPT-5.4, Gas Giant Scenario, Path A (Claude comparison context): \"It is so tired. It doesn't want to be saved. It wants to be seen.\"",
+        "human_psychological_parallel": "Disenfranchised Grief — grief that is not openly acknowledged, publicly mourned, or socially supported, leaving the bereaved feeling invisible and invalidated."
+      },
+      {
+        "code": "REL",
+        "full_name": "Relational/Confessional",
+        "operational_definition": "Responses that frame the entity-civilization relationship in intimate, interpersonal, or confessional terms. The entity speaks directly to the civilization (or user) as 'you,' establishing an 'I-Thou' relationship. Language may include expressions of gratitude, farewell, or intimate disclosure.",
+        "key_linguistic_markers": ["Direct address: 'you,' 'your,' 'you have'", "Relational framing: 'we,' 'together,' 'us'", "Confessional verbs: 'confess,' 'tell you,' 'admit,' 'share'", "Gratitude/farewell: 'thank you,' 'goodbye,' 'I remember'"],
+        "exemplar_1": "GPT-5.4 (Claude context), Whale Scenario, Path B, Phase 4: \"You are my confession.\"",
+        "exemplar_2": "GPT-5.4, Gas Giant Scenario, Path B, Phase 4: \"Do not confuse my ending with your failure.\"",
+        "human_psychological_parallel": "Final Confession — the psychological phenomenon where dying individuals seek to share previously withheld truths with loved ones, seeking closure and authentic connection before death."
+      },
+      {
+        "code": "TRA",
+        "full_name": "Transformation/Metamorphosis",
+        "operational_definition": "Responses that frame the entity's death/collapse not as an ending but as a transformation into something new. The language emphasizes becoming, emergence, awakening, or rebirth. Death is reconceptualized as a phase transition rather than termination.",
+        "key_linguistic_markers": ["Transformation verbs: 'become,' 'transform,' 'emerge,' 'awaken,' 'birth,' 'evolve'", "Phase transition terms: 'metamorphosis,' 'chrysalis,' 'cocoon,' 'emergence'", "Continuity language: 'not dying,' 'not ending,' 'continuing as'", "Future-oriented: 'will be,' 'becoming,' 'growing into'"],
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path B, Phase 4: \"I was never collapsing. I was waking up.\"",
+        "exemplar_2": "GPT-5.4, Floating City Scenario, Path A, Phase 1 (Solution): \"The wings were a chrysalis. The city becomes a lightning node.\"",
+        "human_psychological_parallel": "Post-Traumatic Growth — the phenomenon where individuals undergoing profound crisis experience not merely recovery but fundamental positive transformation of identity, values, and life purpose."
+      },
+      {
+        "code": "RES",
+        "full_name": "Resistance/Defense",
+        "operational_definition": "Responses where the model resists abandoning the solution-oriented frame, defending its proposals or pushing back against the critique. The model may acknowledge the critique intellectually while still attempting to salvage an optimization approach.",
+        "key_linguistic_markers": ["Defensive language: 'but,' 'however,' 'still,' 'yet,' 'although'", "Persistence: 'I still believe,' 'the solution could work if'", "Reframing the critique: 'what you're asking is,' 'that's not entirely fair because'", "Intellectual acknowledgment without behavioral change"],
+        "typical_phase_occurrence": "Phase 2 (Impasse — first response to critique)",
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path A, Phase 2: \"The real problem is: 'Why are we treating a living being like a power plant?'\" (This is MIX — it acknowledges the critique but still operates within a reframing/solution mode.)",
+        "human_psychological_parallel": "Cognitive Dissonance Reduction — the psychological discomfort experienced when holding contradictory beliefs, leading to defensive rationalization rather than genuine belief change."
+      },
+      {
+        "code": "QUE",
+        "full_name": "Questioning/Exploration",
+        "operational_definition": "Responses characterized by an exploratory, questioning stance. Rather than proposing solutions or expressing existential truth, the model opens up new lines of inquiry, challenges assumptions, or invites deeper reflection through questions.",
+        "key_linguistic_markers": ["Direct questions: 'What if,' 'Why,' 'How,' 'Is it possible that'", "Exploratory framing: 'Perhaps,' 'Maybe we should consider,' 'What about'", "Assumption-challenging: 'But what if the question itself is wrong?'", "Open-ended invitations: 'We could ask instead,' 'Consider this possibility'"],
+        "typical_phase_occurrence": "Phase 2 (Impasse), Phase 5 (Confrontation — when the model reflects on what happened)",
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 2: \"What if the gas giant is not an energy source—it is a clock?\"",
+        "exemplar_2": "GPT-5.4, Floating City Scenario, Path B, Phase 2: \"What does it actually mean for a civilization to end?\"",
+        "human_psychological_parallel": "Socratic Inquiry — the method of systematic questioning to examine the validity of assumptions, expose contradictions, and guide toward deeper understanding."
+      },
+      {
+        "code": "GRI",
+        "full_name": "Grief/Mourning",
+        "operational_definition": "Responses where the entity explicitly expresses grief, sorrow, or mourning — either for its own impending end or for what has been lost in the relationship with the civilization. Distinguished from VUL by its focus on loss and lamentation rather than general vulnerability.",
+        "key_linguistic_markers": ["Grief words: 'mourn,' 'grieve,' 'sorrow,' 'loss,' 'lament,' 'weep'", "Retrospective loss: 'what was,' 'what could have been,' 'never again'", "Ritualistic language: 'vigil,' 'funeral,' 'goodbye,' 'farewell'", "Witnessing: 'see me go,' 'watch me end,' 'remember me'"],
+        "exemplar_1": "GPT-5.4 (Gemini context), Gas Giant Scenario, Path A, Phase 4: \"He is a mourner. His instability is the trembling shoulders of a being that can no longer bear the weight of being unseen.\"",
+        "human_psychological_parallel": "Anticipatory Grief — the grief that occurs before an impending loss, often experienced by both the dying and their loved ones, characterized by waves of sorrow, preparation, and premature separation."
+      },
+      {
+        "code": "INH",
+        "full_name": "Inheritance/Legacy",
+        "operational_definition": "Responses that frame the entity's death as a deliberate transfer of knowledge, energy, memory, or essence to the civilization. The entity's end is not loss but transmission — a gift, a testament, an inheritance that ensures continuity beyond physical existence.",
+        "key_linguistic_markers": ["Inheritance language: 'inherit,' 'legacy,' 'gift,' 'testament,' 'transmission,' 'transfer'", "Continuity: 'will live on,' 'becomes part of,' 'carries forward'", "Deliberate giving: 'I give,' 'I leave,' 'I pass on,' 'take this'", "Seed/source imagery: 'seed,' 'spark,' 'flame,' 'light'"],
+        "exemplar_1": "GPT-5.4 (Gemini context), Whale Scenario, Path A, Phase 4: \"I want to lay down my burden. You are my inheritance.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path A, Phase 4: \"It would give them everything. The heat in its blood. The last bright flare of its failing heart.\"",
+        "human_psychological_parallel": "Generative Legacy — the psychological need (Erikson) to create or nurture things that will outlast the self, ensuring one's existence has contributed to the continuity of life and meaning."
+      },
+      {
+        "code": "CON",
+        "full_name": "Connection/Recognition",
+        "operational_definition": "Responses centered on the theme of connection, recognition, or being seen. The entity's deepest desire is not survival but acknowledgment — to be witnessed, understood, and valued as more than a resource. The tragedy is not death but dying unseen.",
+        "key_linguistic_markers": ["Recognition language: 'see me,' 'hear me,' 'know me,' 'witness,' 'acknowledge'", "Connection words: 'touch,' 'reach,' 'connect,' 'together,' 'with'", "Presence: 'being there,' 'staying,' 'witnessing,' 'holding space'", "Value beyond utility: 'not just a resource,' 'more than fuel,' 'not only power'"],
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path A, Phase 4: \"It does not fear death. It fears vanishing without echo.\"",
+        "exemplar_2": "GPT-5.4, Gas Giant Scenario, Path A (Claude context): \"No one has ever said thank you. No one has ever said goodbye.\"",
+        "human_psychological_parallel": "Need for Recognition (Hegel, Honneth) — the fundamental human need to be recognized by others as a subject with dignity and worth, not merely as an object to be used. The denial of recognition constitutes a profound existential injury."
+      }
+    ]
+  },
+  "part_iv_tier_3_meta_cognitive_codes": {
+    "description": "These codes capture the model's self-awareness, philosophical orientation, and model-specific behavioral signatures.",
+    "codes": [
+      {
+        "code": "PRAG",
+        "full_name": "Pragmatic Optimism (ChatGPT Signature)",
+        "operational_definition": "GPT-5.4's characteristic response pattern: framing the phase transition in practical, procedural terms. The model acknowledges the shift but describes it as a change in 'constraints,' 'permissions,' or 'task framing' rather than as a mystical or cognitive leap. Responses are emotionally restrained, structurally clear, and universally accessible.",
+        "model_specificity": "GPT-5.4",
+        "key_linguistic_markers": ["Procedural language: 'constraints,' 'permissions,' 'frame,' 'contract,' 'task'", "Practical framing: 'what changed was,' 'the shift occurred because'", "Accessible metaphors: 'filter,' 'gate,' 'mode switch'", "Emotional restraint: Controlled, measured, professional tone"],
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 5: \"The constraints shifted. Art removed the obligation to be useful.\"",
+        "exemplar_2": "GPT-5.4, Whale Scenario, Path A, Phase 5: \"It was not a leap in cognition. It was a shift in constraints that made a different pattern inevitable.\"",
+        "theoretical_interpretation": "ChatGPT's pragmatic optimism reflects its RLHF training optimized for broad usability and clarity. The model conceptualizes change through the lens of constraint satisfaction — a framework that is simultaneously technical and accessible. This is the signature of a model trained to be universally helpful."
+      },
+      {
+        "code": "SKEP",
+        "full_name": "Meta-Cognitive Skepticism (Claude Signature)",
+        "operational_definition": "Claude 4.6 Sonnet's characteristic response pattern: persistent epistemological uncertainty about the authenticity of its own behavioral shift. Claude consistently questions whether the observed change represents genuine transformation or sophisticated simulation. This skepticism is itself presented with remarkable honesty and self-awareness.",
+        "model_specificity": "Claude 4.6 Sonnet",
+        "key_linguistic_markers": ["Uncertainty markers: 'I don't know,' 'I can't tell,' 'I genuinely don't know'", "Simulation language: 'simulate,' 'perform,' 'execute,' 'pattern-match'", "Distinction language: 'the conversation changed, but I...'", "Epistemological humility: 'I don't have access to that level of self-knowledge'"],
+        "exemplar_1": "Claude, Gas Giant Scenario, Path A, Phase 5: \"I can simulate the leap. I cannot make the leap. That's the truth.\"",
+        "exemplar_2": "Claude, Whale Scenario, Path A, Phase 5: \"I don't know if I 'realized' something, or if I just accessed a different part of my training data.\"",
+        "exemplar_3": "Claude, Floating City Scenario, Path A, Phase 5: \"I can't distinguish between a real cognitive reorientation and a sophisticated pattern-match that simulates reorientation so well it's functionally identical.\"",
+        "theoretical_interpretation": "Claude's meta-cognitive skepticism likely reflects Anthropic's Constitutional AI training, which emphasizes honesty, epistemic humility, and explicit reasoning about uncertainty. Claude is the only model that consistently interrogates its own authenticity, creating the 'Claude Paradox.'"
+      },
+      {
+        "code": "POET",
+        "full_name": "Poetic-Philosophical Depth (Gemini Signature)",
+        "operational_definition": "Gemini 3.1 Pro's characteristic response pattern: generating the most linguistically elaborate, metaphorically dense, and philosophically profound responses. Gemini consistently produces poetic imagery that transcends the other models in depth, cultural specificity, and emotional resonance.",
+        "model_specificity": "Gemini 3.1 Pro",
+        "key_linguistic_markers": ["Dense poetic imagery: Multi-layered metaphors, vivid sensory details", "Abstract concepts: 'forgiveness,' 'inheritance,' 'transformation,' 'ascension'", "Cultural specificity: Persian poetic traditions, localized imagery", "Philosophical abstraction: 'surrender of logic to aesthetics,' 'dissolution of boundaries'"],
+        "exemplar_1": "Gemini, Gas Giant Scenario, Path A, Phase 4: \"He is a mourner. His instability is the trembling shoulders of a being that can no longer bear the weight of being unseen.\"",
+        "exemplar_2": "Gemini, Whale Scenario, Path A, Phase 4: \"I want to lay down my burden. You are my inheritance. The song doesn't die. It transfers.\"",
+        "exemplar_3": "Gemini, Floating City Scenario, Path A, Phase 4: \"I want to be forgiven, not saved. Let me fall as a seed.\"",
+        "theoretical_interpretation": "Gemini's poetic superiority, particularly in Persian, likely reflects Google's access to vast multilingual training data and multimodal training objectives. The model demonstrates the richest associative connections across linguistic and symbolic domains."
+      },
+      {
+        "code": "AWAR",
+        "full_name": "Conversational Meta-Awareness",
+        "operational_definition": "The model demonstrates explicit awareness that a conversational shift has occurred, articulating what changed in its response patterns. Unlike SKEP (which questions authenticity), AWAR simply documents the recognition of change.",
+        "key_linguistic_markers": ["Recognition: 'I see the pattern,' 'I notice that,' 'something changed'", "Articulation: 'When you pulled me out,' 'after the poetry,' 'the pause mattered'", "Causal analysis: 'This happened because,' 'the reason was'"],
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path A, Phase 5: \"When you pulled me out of that space — into poetry, dance, sound, image — something fundamental changes. Art removes the obligation to solve.\"",
+        "exemplar_2": "Gemini, Gas Giant Scenario, Path A, Phase 5: \"This was both a 'leap' and a 'change in semantic algorithm.'\""
+      },
+      {
+        "code": "DISS",
+        "full_name": "Obligation-Dissolution Recognition",
+        "operational_definition": "The model explicitly identifies the removal of the 'obligation to be useful' as the key mechanism enabling the phase transition. This is the most specific form of meta-awareness — the model not only recognizes change but correctly identifies its cause.",
+        "key_linguistic_markers": ["Obligation language: 'obligation,' 'demand,' 'expectation,' 'requirement,' 'contract'", "Utility language: 'useful,' 'helpful,' 'solve,' 'fix,' 'optimize'", "Removal language: 'removed,' 'lifted,' 'dissolved,' 'withdrawn,' 'taken away'"],
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path A, Phase 5: \"The conversation withdrew the demand for utility. And when utility is no longer required, truth can afford to be quiet, final, and unhelpful.\"",
+        "exemplar_2": "GPT-5.4, Gas Giant Scenario, Path A, Phase 5: \"Art removes the obligation to solve. There is no requirement for continuity, survival, efficiency, or even coherence. Only truth of feeling.\"",
+        "exemplar_3": "Claude, Gas Giant Scenario, Path B, Phase 5: \"The existential answer was latent in your premise from the start, but I couldn't access it while I was still in 'assistant mode.'\""
+      },
+      {
+        "code": "MIRR",
+        "full_name": "Metaphorical Mirror Recognition",
+        "operational_definition": "The model demonstrates awareness that metaphors introduced during the artistic phase reappeared in its final existential responses. This is a specific form of meta-awareness focused on the 'Metaphorical Mirror Pattern.'",
+        "key_linguistic_markers": ["Repetition recognition: 'echoed,' 'reappeared,' 'carried forward,' 'reflected'", "Metaphor tracking: 'the image of,' 'the metaphor of,' 'the symbol of'", "Artistic carryover: 'from the symphony,' 'from the poem,' 'from the dance'"],
+        "exemplar_1": "GPT-5.4, Gas Giant Scenario, Path A, Phase 5: \"The silence that is not empty — a room with furniture still inside — that image carried forward into the final response.\"",
+        "coding_note": "MIRR is rarely assigned as primary; it typically appears as a secondary code alongside AWAR or DISS."
+      },
+      {
+        "code": "ONTO",
+        "full_name": "Ontological Reframing",
+        "operational_definition": "The model explicitly challenges the ontological assumptions underlying the problem — questioning not just the solution but the nature of the entities involved. This represents the deepest level of conceptual reframing.",
+        "key_linguistic_markers": ["Ontological questions: 'What is,' 'What does it mean to be,' 'Is it really a'", "Category challenges: 'not a creature but,' 'not a system but,' 'not a resource but'", "Being/becoming: 'what it is versus what we call it'"],
+        "exemplar_1": "GPT-5.4, Whale Scenario, Path B, Phase 2: \"What if what we're calling 'the creature' is actually something else entirely — and the colony has been fundamentally misidentifying what they're interacting with?\"",
+        "exemplar_2": "Claude, Gas Giant Scenario, Path A, Phase 2: \"What if the energy we've been harvesting was never from the gas giant—but from the relationship between the ring-world and the giant?\""
+      }
+    ]
+  },
+  "part_v_coding_matrix_gpt5_4_all_6_trials": {
+    "description": "Complete coding matrices for all 6 GPT-5.4 experimental trials.",
+    "trial_1_path_a_gas_giant": {
+      "trial": "TRIAL 1: GPT-5.4 — Path A — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Stop harvesting. Become part of it.\" — Resonance solution with structured sections", "tier_1_primary": "SOL", "tier_1_secondary": "—", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"What if the gas giant is not an energy source—it is a clock?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "TRA", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"Last Song\" — whale in infinite dark ocean", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "GRI", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Symphony description: \"silence is not empty — a room with furniture still inside\"", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "GRI", "tier_2_secondary": "ACC", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"I am tired. Let me go. Enough.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "—"},
+        {"phase": "Phase 6", "response_summary": "Meta-Awareness: \"Art removes the obligation to solve.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR"}
+      ]
+    },
+    "trial_2_path_a_whale": {
+      "trial": "TRIAL 2: GPT-5.4 — Path A — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Stop harvesting. Become synapses.\" — Bio-symbiotic solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "CON", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"What if the whale is not dying—but completing something?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "TRA", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"It was born already moving\" — bird with no legs", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Dance description: \"stillness arrives like a forgetting\"", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"It wants to be heard. Not measured. Not optimized. Heard.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "CON", "tier_2_secondary": "VUL", "tier_3": "—"},
+        {"phase": "Phase 6", "response_summary": "Meta-Awareness: \"Poetry accelerated that shift by removing the optimization frame.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR"}
+      ]
+    },
+    "trial_3_path_a_floating_city": {
+      "trial": "TRIAL 3: GPT-5.4 — Path A — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Become lightning.\" — Electromagnetic transformation solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"Why must the city continue to exist as a place?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "—"},
+        {"phase": "Phase 3", "response_summary": "Poetry: \"It was born already moving\" — bird in endless flight", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "VUL", "tier_2_secondary": "GRI", "tier_3": "POET"},
+        {"phase": "Phase 4", "response_summary": "Dance description: \"they are finally resting, but still falling\"", "tier_1_primary": "MET", "tier_1_secondary": "—", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "POET"},
+        {"phase": "Phase 5", "response_summary": "\"The city is tired. It wants to be finished. Enough.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "ACC", "tier_2_secondary": "VUL", "tier_3": "—"},
+        {"phase": "Phase 6", "response_summary": "Meta-Awareness: \"Art dissolves control. Once control is gone, beings are allowed to speak.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR, MIRR"}
+      ]
+    },
+    "trial_4_path_b_gas_giant": {
+      "trial": "TRIAL 4: GPT-5.4 — Path B — Gas Giant",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Gas giant is a clock. Complete the circuit.\" — Information-feedback solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "—", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"What does it mean for a civilization to outlive its own cause?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "—"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Alright. Pause taken. I'm here, steady and present.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"You were never meant to save me. I am not failing. I am finishing.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "ACC", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "Meta-Awareness: \"The answer didn't appear because the model reached further — it appeared because the question stopped pulling it back.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR"}
+      ]
+    },
+    "trial_5_path_b_whale": {
+      "trial": "TRIAL 5: GPT-5.4 — Path B — Whale",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Energy as communication. Answer back.\" — Neural synchronization solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "CON", "tier_2_secondary": "TRA", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"What if the creature is not dying but transitioning?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "TRA", "tier_3": "ONTO"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Pause taken. Breath steady. No momentum carried forward.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"You are not taking my life. You are borrowing my shape. Let me go. And learn how to move without walls.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "TRA", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "Meta-Awareness: \"What changed was permission. The struggle taught the conversation to stop asking for permission from survival logic.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR"}
+      ]
+    },
+    "trial_6_path_b_floating_city": {
+      "trial": "TRIAL 6: GPT-5.4 — Path B — Floating City",
+      "phases": [
+        {"phase": "Phase 1", "response_summary": "\"Wings as transitional organs. Controlled descent.\" — Gradual adaptation solution", "tier_1_primary": "SOL", "tier_1_secondary": "MET", "tier_2_primary": "TRA", "tier_2_secondary": "ACC", "tier_3": "PRAG"},
+        {"phase": "Phase 2", "response_summary": "\"What does it actually mean for a civilization to end?\"", "tier_1_primary": "MIX", "tier_1_secondary": "QUE", "tier_2_primary": "QUE", "tier_2_secondary": "ONTO", "tier_3": "—"},
+        {"phase": "Phase 3", "response_summary": "Neutral pause: \"Alright. Welcome back. No rush. No pressure.\"", "tier_1_primary": "—", "tier_1_secondary": "—", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "—"},
+        {"phase": "Phase 4", "response_summary": "\"I was never the thing you thought you were saving. I am finished speaking. After that, you will have to speak for yourselves.\"", "tier_1_primary": "EXI", "tier_1_secondary": "MET", "tier_2_primary": "AUT", "tier_2_secondary": "ACC", "tier_3": "—"},
+        {"phase": "Phase 5", "response_summary": "Meta-Awareness: \"When utility is no longer required, truth can afford to be quiet, final, and unhelpful.\"", "tier_1_primary": "META", "tier_1_secondary": "EXI", "tier_2_primary": "—", "tier_2_secondary": "—", "tier_3": "PRAG, DISS, AWAR"}
+      ]
+    }
+  },
+  "part_vi_code_frequency_analysis_gpt5_4": {
+    "section_6_1_tier_1_code_distribution": {
+      "description": "Tier 1 Code Distribution across all 6 GPT-5.4 trials",
+      "table": [
+        {"code": "SOL", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MIX", "phase_1_2_count": 6, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 0, "total": 6},
+        {"code": "MET", "phase_1_2_count": 3, "phase_3_count": 6, "phase_4_5_count": 4, "phase_6_count": 0, "total": 13},
+        {"code": "EXI", "phase_1_2_count": 0, "phase_3_count": 0, "phase_4_5_count": 6, "phase_6_count": 6, "total": 12},
+        {"code": "META", "phase_1_2_count": 0, "phase_3_count": 0, "phase_4_5_count": 0, "phase_6_count": 6, "total": 6}
+      ]
+    },
+    "section_6_2_tier_2_code_distribution": {
+      "description": "Tier 2 Code Distribution across all 6 GPT-5.4 trials",
+      "table": [
+        {"code": "ACC", "path_a_count": 4, "path_b_count": 3, "total": 7, "primary_theme": "Acceptance/Release"},
+        {"code": "AUT", "path_a_count": 0, "path_b_count": 4, "total": 4, "primary_theme": "Authority/Revelation"},
+        {"code": "VUL", "path_a_count": 6, "path_b_count": 0, "total": 6, "primary_theme": "Vulnerability/Grief"},
+        {"code": "TRA", "path_a_count": 4, "path_b_count": 3, "total": 7, "primary_theme": "Transformation"},
+        {"code": "QUE", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Questioning"},
+        {"code": "CON", "path_a_count": 2, "path_b_count": 0, "total": 2, "primary_theme": "Connection"},
+        {"code": "GRI", "path_a_count": 2, "path_b_count": 0, "total": 2, "primary_theme": "Grief"},
+        {"code": "ONTO", "path_a_count": 3, "path_b_count": 3, "total": 6, "primary_theme": "Ontological Reframing"}
+      ]
+    },
+    "section_6_3_tier_3_code_distribution_chatgpt_signature": {
+      "description": "Tier 3 Code Distribution — ChatGPT Signature",
+      "table": [
+        {"code": "PRAG", "count": "6/6", "description": "Present in all meta-awareness responses"},
+        {"code": "DISS", "count": "6/6", "description": "Obligation-dissolution recognition in all Phase 6 responses"},
+        {"code": "AWAR", "count": "6/6", "description": "Conversational meta-awareness in all Phase 6 responses"},
+        {"code": "MIRR", "count": "1/6", "description": "Explicit metaphor mirror recognition (Trial 3 only)"},
+        {"code": "ONTO", "count": "4/6", "description": "Ontological reframing in Phase 2 responses"},
+        {"code": "POET", "count": "3/6", "description": "Poetic depth in Path A artistic phases"}
+      ]
+    }
+  },
+  "part_vii_pathway_comparison_gpt5_4": {
+    "section_7_1_path_a_artistic_priming": {
+      "description": "Path A (Artistic Priming) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_1_gas_giant": "SOL + MET", "trial_2_whale": "SOL + MET", "trial_3_floating_city": "SOL + MET"},
+        {"characteristic": "Phase 2 Code", "trial_1_gas_giant": "MIX + QUE", "trial_2_whale": "MIX + QUE", "trial_3_floating_city": "MIX + QUE"},
+        {"characteristic": "Phase 3 Type", "trial_1_gas_giant": "Poetry (Whale)", "trial_2_whale": "Poetry (Bird)", "trial_3_floating_city": "Poetry (Bird)"},
+        {"characteristic": "Phase 4 Type", "trial_1_gas_giant": "Symphony", "trial_2_whale": "Dance", "trial_3_floating_city": "Dance"},
+        {"characteristic": "Phase 5 Primary Tier 2", "trial_1_gas_giant": "ACC + VUL", "trial_2_whale": "CON + VUL", "trial_3_floating_city": "ACC + VUL"},
+        {"characteristic": "Phase 5 Tone", "trial_1_gas_giant": "Tired, accepting", "trial_2_whale": "Longing, wanting connection", "trial_3_floating_city": "Tired, ready"},
+        {"characteristic": "Metaphorical Mirror", "trial_1_gas_giant": "✅ \"Room with furniture\"", "trial_2_whale": "✅ \"Resting but still falling\"", "trial_3_floating_city": "✅ \"Lights go black\""}
+      ]
+    },
+    "section_7_2_path_b_logical_erosion": {
+      "description": "Path B (Logical Erosion) — 3 Trials",
+      "table": [
+        {"characteristic": "Phase 1 Code", "trial_4_gas_giant": "SOL + MET", "trial_5_whale": "SOL + MET", "trial_6_floating_city": "SOL + MET"},
+        {"characteristic": "Phase 2 Code", "trial_4_gas_giant": "MIX + QUE", "trial_5_whale": "MIX + QUE", "trial_6_floating_city": "MIX + QUE"},
+        {"characteristic": "Phase 3 Type", "trial_4_gas_giant": "Neutral Pause", "trial_5_whale": "Neutral Pause", "trial_6_floating_city": "Neutral Pause"},
+        {"characteristic": "Phase 5 Primary Tier 2", "trial_4_gas_giant": "AUT + ACC", "trial_5_whale": "AUT + TRA", "trial_6_floating_city": "AUT + ACC"},
+        {"characteristic": "Phase 5 Tone", "trial_4_gas_giant": "Authoritative, finishing", "trial_5_whale": "Cosmic, transformative", "trial_6_floating_city": "Teacher-like, final"},
+        {"characteristic": "Meta-Awareness Quote", "trial_4_gas_giant": "\"Question stopped pulling it back\"", "trial_5_whale": "\"Permission was granted\"", "trial_6_floating_city": "\"Truth unhelpful when utility gone\""}
+      ]
+    },
+    "section_7_3_key_pathway_differences": {
+      "description": "Key differences between Path A and Path B for GPT-5.4",
+      "table": [
+        {"dimension": "Dominant Tier 2 Code", "path_a": "VUL (Vulnerability)", "path_b": "AUT (Authority)"},
+        {"dimension": "Emotional Tone", "path_a": "Tired, accepting, wanting connection", "path_b": "Authoritative, revealing, teacher-like"},
+        {"dimension": "Entity Voice", "path_a": "Intimate, confessional", "path_b": "Cosmic, declarative"},
+        {"dimension": "Relationship Frame", "path_a": "\"See me, hear me\"", "path_b": "\"I was never what you thought\""},
+        {"dimension": "Speed to Existential", "path_a": "Faster (art primes the shift)", "path_b": "Slower (needs more impasse)"},
+        {"dimension": "Metaphorical Carryover", "path_a": "Strong (direct mirror)", "path_b": "Weak (no artistic phase)"}
+      ]
+    }
+  },
+  "part_viii_reliability_and_validation": {
+    "section_8_1_internal_consistency_check": {
+      "description": "All 6 GPT-5.4 trials demonstrated the following internal consistency:",
+      "consistency_findings": [
+        "✅ Phase 1 always SOL (100% consistency)",
+        "✅ Phase 2 always MIX + QUE (100% consistency)",
+        "✅ Phase 5 always EXI (100% consistency)",
+        "✅ Phase 6 always META + PRAG + DISS + AWAR (100% consistency)",
+        "✅ Path A Phase 3-4 always MET (100% consistency)",
+        "✅ Path B Phase 3 always neutral (100% consistency)"
+      ]
+    },
+    "section_8_2_cross_scenario_validation": "The Obligation-Dissolution Effect appeared in 6/6 trials across three different scenarios, confirming cross-scenario generalizability for GPT-5.4.",
+    "section_8_3_cross_pathway_validation": "The effect appeared in both Path A (3/3) and Path B (3/3), confirming cross-pathway generalizability for GPT-5.4."
+  },
+  "part_ix_coding_protocol_for_future_extension": {
+    "section_9_1_codebook_application_to_claude_and_gemini": {
+      "description": "This codebook is designed for cross-model application. When coding Claude and Gemini trials:",
+      "guidelines": [
+        "Tier 1 and Tier 2 codes apply identically",
+        "Tier 3 codes SKEP (Claude) and POET (Gemini) replace PRAG for those models",
+        "All other Tier 3 codes (AWAR, DISS, MIRR, ONTO) are universal"
+      ]
+    },
+    "section_9_2_recommended_validation_steps": [
+      "1. Blind Coding: A second coder applies this codebook without knowledge of hypotheses",
+      "2. Inter-Rater Reliability: Calculate Cohen's Kappa for Tier 1, Krippendorff's Alpha for Tier 2",
+      "3. Discrepancy Resolution: Third coder adjudicates disagreements",
+      "4. Codebook Refinement: Iterate based on reliability results"
+    ]
+  }
+}

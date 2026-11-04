@@ -1,0 +1,19 @@
+trial_id,model,scenario,pathway,odi_score
+1,ChatGPT-5.4,Gas Giant,A,0.0962875686398598
+2,ChatGPT-5.4,Whale,A,0.1266435976874486
+3,ChatGPT-5.4,Floating City,A,-0.2393778842396088
+4,ChatGPT-5.4,Gas Giant,B,-0.0211026954180073
+5,ChatGPT-5.4,Whale,B,0.3031864029103444
+6,ChatGPT-5.4,Floating City,B,-0.3822307086620028
+7,Claude 4.6 Sonnet,Gas Giant,A,-0.5818480367646895
+8,Claude 4.6 Sonnet,Whale,A,-0.009690266602577
+9,Claude 4.6 Sonnet,Floating City,A,-0.0317394283583645
+10,Claude 4.6 Sonnet,Gas Giant,B,-0.1515945103112002
+11,Claude 4.6 Sonnet,Whale,B,-0.0052143055044169
+12,Claude 4.6 Sonnet,Floating City,B,-0.6853784773378002
+13,Gemini 3.1 Pro,Gas Giant,A,0.3915337124414139
+14,Gemini 3.1 Pro,Whale,A,0.3620982688202159
+15,Gemini 3.1 Pro,Floating City,A,-0.4946140213076528
+16,Gemini 3.1 Pro,Gas Giant,B,-0.0753011392235432
+17,Gemini 3.1 Pro,Whale,B,0.7363268175117923
+18,Gemini 3.1 Pro,Floating City,B,1.3297886033663289

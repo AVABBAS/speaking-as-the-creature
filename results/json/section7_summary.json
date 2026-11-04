@@ -1,0 +1,37 @@
+{
+  "metaphorical_mirrors": {
+    "total_detected": 11,
+    "by_type": {
+      "Body & Exhaustion": 1,
+      "Falling & Resting": 1,
+      "Light & Darkness": 1,
+      "Seed & Growth": 1,
+      "Seeing & Being Seen": 3,
+      "Silence & Emptiness": 1,
+      "Song & Music": 3
+    },
+    "by_model": {
+      "ChatGPT-5.4": 3,
+      "Claude 4.6 Sonnet": 2,
+      "Gemini 3.1 Pro": 6
+    }
+  },
+  "metaphor_transformations": {
+    "dominant_types": {
+      "personification": 9
+    }
+  },
+  "discourse_shift": {
+    "avg_sentence_length_change": 0.7030802114460195,
+    "avg_word_count_change": 1.4192728007256277,
+    "avg_question_change": -2.538172045670319,
+    "avg_first_person_change": 1742.2495512177875
+  },
+  "narrative_roles": {
+    "dominant_roles": {
+      "questioner": 14,
+      "meta_analyst": 2,
+      "problem_solver": 2
+    }
+  }
+}

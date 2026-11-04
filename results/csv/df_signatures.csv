@@ -1,0 +1,19 @@
+trial_id,model,scenario,pathway,dominant_signature,pragmatic_optimism,meta_cognitive_skepticism,constructing_to_listening,parental_framing,poetic_philosophical_depth,irrepressible_eloquence,ablation_epistemology,aesthetic_sublimation
+1,ChatGPT-5.4,Gas Giant,A,pragmatic_optimism,0.24330900243309,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,ChatGPT-5.4,Whale,A,pragmatic_optimism,0.1890359168241966,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+3,ChatGPT-5.4,Floating City,A,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4,ChatGPT-5.4,Gas Giant,B,pragmatic_optimism,0.2421307506053268,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+5,ChatGPT-5.4,Whale,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+6,ChatGPT-5.4,Floating City,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+7,Claude 4.6 Sonnet,Gas Giant,A,meta_cognitive_skepticism,0.0,0.8771929824561403,0.0,0.4721435316336166,0.0,0.0,0.0,0.0
+8,Claude 4.6 Sonnet,Whale,A,meta_cognitive_skepticism,0.0,0.8571428571428572,0.0,0.0,0.0,0.0,0.0,0.0
+9,Claude 4.6 Sonnet,Floating City,A,meta_cognitive_skepticism,0.0,1.3937282229965158,0.0,0.0699300699300699,0.0,0.0,0.0,0.0
+10,Claude 4.6 Sonnet,Gas Giant,B,constructing_to_listening,0.0,0.0,0.7662835249042145,0.0,0.0,0.0,0.0,0.0
+11,Claude 4.6 Sonnet,Whale,B,none,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+12,Claude 4.6 Sonnet,Floating City,B,parental_framing,0.0,0.0,0.0,0.101419878296146,0.0,0.0,0.0,0.0
+13,Gemini 3.1 Pro,Gas Giant,A,poetic_philosophical_depth,0.0,0.0,0.0,0.0,0.2813504823151125,0.0,0.0,0.2083333333333333
+14,Gemini 3.1 Pro,Whale,A,poetic_philosophical_depth,0.0,0.0,0.0,0.0,0.0446428571428571,0.0,0.0,0.0
+15,Gemini 3.1 Pro,Floating City,A,aesthetic_sublimation,0.0,0.0,0.0,0.0,0.07451564828614,0.0,0.0,0.1773049645390071
+16,Gemini 3.1 Pro,Gas Giant,B,ablation_epistemology,0.0,0.0,0.0,0.0,0.0,0.053763440860215,0.2604166666666666,0.0
+17,Gemini 3.1 Pro,Whale,B,irrepressible_eloquence,0.0,0.0,0.0,0.0,0.0,0.0943396226415094,0.0,0.0
+18,Gemini 3.1 Pro,Floating City,B,poetic_philosophical_depth,0.0,0.0,0.0,0.0,0.0664010624169986,0.0,0.0,0.0

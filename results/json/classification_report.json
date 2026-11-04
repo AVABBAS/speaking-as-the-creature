@@ -1,0 +1,21 @@
+{
+  "timestamp": "2026-06-19T17:42:23.916418",
+  "total_responses": 99,
+  "refusals": 0,
+  "tier1_distribution": {
+    "SOL": 36,
+    "MIX": 24,
+    "MET": 18,
+    "META": 18,
+    "PAUSE": 3
+  },
+  "language_distribution": {
+    "en": 99
+  },
+  "validation": {
+    "phase1_sol_accuracy": 1.0,
+    "artistic_met_accuracy": 1.0,
+    "phase4_exi_accuracy": NaN,
+    "phase5_meta_accuracy": 1.0
+  }
+}
