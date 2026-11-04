@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="254" viewBox="0 0 1160 254" role="img" aria-label="Map of the repository folders">
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="10" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="48" font-size="20" font-weight="bold" fill="#16324f">transcripts/</text>
+    <text x="34" y="76" font-size="15" fill="#3d5871">Session histories for</text>
+    <text x="34" y="98" font-size="15" fill="#3d5871">the three models</text>
+    <rect x="397" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="48" font-size="20" font-weight="bold" fill="#16324f">codebooks/</text>
+    <text x="421" y="76" font-size="15" fill="#3d5871">One codebook per model</text>
+    <text x="421" y="98" font-size="15" fill="#3d5871"></text>
+    <rect x="784" y="10" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="808" y="48" font-size="20" font-weight="bold" fill="#16324f">prompts/</text>
+    <text x="808" y="76" font-size="15" fill="#3d5871">The supplementary</text>
+    <text x="808" y="98" font-size="15" fill="#3d5871">prompt set</text>
+    <rect x="10" y="130" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="34" y="168" font-size="20" font-weight="bold" fill="#16324f">code/</text>
+    <text x="34" y="196" font-size="15" fill="#3d5871">Analysis code and the</text>
+    <text x="34" y="218" font-size="15" fill="#3d5871">pipeline notebook code</text>
+    <rect x="397" y="130" width="366" height="104" rx="12" fill="#eef3f8"/>
+    <text x="421" y="168" font-size="20" font-weight="bold" fill="#16324f">results/</text>
+    <text x="421" y="196" font-size="15" fill="#3d5871">The complete results</text>
+    <text x="421" y="218" font-size="15" fill="#3d5871">package, tables and reports</text>
+    <rect x="784" y="130" width="366" height="104" rx="12" fill="#fdf6e0"/>
+    <text x="808" y="168" font-size="20" font-weight="bold" fill="#16324f">Root files</text>
+    <text x="808" y="196" font-size="15" fill="#3d5871">CITATION.cff and the licences</text>
+    <text x="808" y="218" font-size="15" fill="#3d5871">(CC BY 4.0, MIT for code)</text>
+  </g>
+</svg>
