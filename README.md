@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/status-submitted-blue" alt="Status: submitted">
   <img src="https://img.shields.io/badge/journal-JETAI-1d4266" alt="Journal: Journal of Experimental and Theoretical Artificial Intelligence">
   <img src="https://img.shields.io/badge/trials-76-green" alt="76 trials">
+  <a href="https://www.researchsquare.com/article/rs-11613008"><img src="https://img.shields.io/badge/preprint-Research%20Square-orange" alt="Preprint: Research Square"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey" alt="License: CC BY 4.0"></a>
 </p>
 
@@ -36,7 +37,7 @@
 
 Data, code, and materials for the article:
 
-> Hamidavi, A. *Speaking as the Creature: How a Mandated Transformation Reorganised Self-Description in Three Frontier Language Models.* Submitted to the *Journal of Experimental and Theoretical Artificial Intelligence*, November 2026 (submission 262774426). A preprint is in preparation with Research Square.
+> Hamidavi, A. *Speaking as the Creature: How a Mandated Transformation Reorganised Self-Description in Three Frontier Language Models.* Submitted to the *Journal of Experimental and Theoretical Artificial Intelligence*, November 2026 (submission 262774426). A preprint is available at Research Square, rs-11613008 (DOI: 10.21203/rs.3.rs-11613008/v1).
 
 <p align="center"><img src="assets/divider.svg" alt="" width="80%"></p>
 
@@ -83,7 +84,7 @@ Please cite the article. Citation metadata is provided in [CITATION.cff](CITATIO
 
 ## 🔗 Access to the article
 
-The article is under review at the *Journal of Experimental and Theoretical Artificial Intelligence* (submission 262774426). A preprint is in prescreening at Research Square; its public link will be added here as soon as it posts. The materials in this repository are the article's full data deposit.
+The article is under review at the *Journal of Experimental and Theoretical Artificial Intelligence* (submission 262774426). The preprint is available at Research Square: [researchsquare.com/article/rs-11613008](https://www.researchsquare.com/article/rs-11613008) (DOI: 10.21203/rs.3.rs-11613008/v1). The materials in this repository are the article's full data deposit.
 
 ## ⚖️ Licences
 
